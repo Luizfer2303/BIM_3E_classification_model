@@ -1,442 +1,138 @@
-,Name,Type,Family,Category,NBR_COD,NBR_DESC,NBR_COD_PRED
-0,Alvenaria prismática,Alvenaria prismática,Alvenaria prismática,Modelos genéricos,3E-42-18-04-00-00-00,Caixa de passagem para a rede coletora de esgoto,3E-42-18-04-00-00-00
-6,Laje Concreto (Inspeção),Laje Concreto (Inspeção),Laje Concreto (Inspeção),Modelos genéricos,3E-42-18-04-00-00-00,Caixa de passagem para a rede coletora de esgoto,3E-42-18-04-00-00-00
-18,Kessel 93004R en,Kessel 93004R en,Grease_separator_easyclean_modula_ns_4_standard_2-part_93004-r_kessel,Peças hidrossanitárias,,,3E-06-04-16-00-00-00
-20,Kessel 93001 en,Kessel 93001 en,Fettabscheider_easyclean_modular_ns_1_standard_2-teilig_93001_kessel,Peças hidrossanitárias,,,3E-06-04-16-00-00-00
-22,PPA_CAIXA_INSPECAO,PPA_CAIXA_INSPECAO,PPA_CAIXA_INSPECAO,Peças hidrossanitárias,3E-42-18-04-00-00-00,Caixa de passagem para a rede coletora de esgoto,3E-42-18-04-00-00-00
-47,CAIXA DE GORDURA 56L COM TAMPA CEGA,CAIXA DE GORDURA 56L COM TAMPA CEGA,PPA_CAIXA_INSPECAO,Peças hidrossanitárias,3E-42-04-04-00-00-00,Sub-coletor de instalação sanitária,3E-42-04-04-00-00-00
-55,3E.04.20.00.00-Sistemas Hidrosanitários - 5 x 5 cm,3E.04.20.00.00-Sistemas Hidrosanitários - 5 x 5 cm,Concreto-Retangular-Coluna,Pilares estruturais,3E-42-18-06-00-00-00,Ligação predial para a rede coletora de esgoto,3E-36-14-02-00-00-00
-71,3E.04.20.00.00-Sistemas Hidrosanitários - 4 x 4 cm,3E.04.20.00.00-Sistemas Hidrosanitários - 4 x 4 cm,Concreto-Retangular-Coluna,Pilares estruturais,3E-42-18-06-00-00-00,Ligação predial para a rede coletora de esgoto,3E-36-14-02-00-00-00
-87,"3E.04.20.00.00-Sistemas Hidrosanitários - 2,8 x 2,8 cm","3E.04.20.00.00-Sistemas Hidrosanitários - 2,8 x 2,8 cm",Concreto-Retangular-Coluna,Pilares estruturais,3E-36-14-02-00-00-00,Elementos para distribuição direta de água potável,3E-36-14-02-00-00-00
-104,3E.04.20.00.00-Sistemas Hidrosanitários - 2 x 2 cm,3E.04.20.00.00-Sistemas Hidrosanitários - 2 x 2 cm,Concreto-Retangular-Coluna,Pilares estruturais,3E-36-14-02-00-00-00,Elementos para distribuição direta de água potável,3E-36-14-02-00-00-00
-128,"3E.04.20.00.00-Sistemas Hidrosanitários - 2,5 x 2,5 cm","3E.04.20.00.00-Sistemas Hidrosanitários - 2,5 x 2,5 cm",Concreto-Retangular-Coluna,Pilares estruturais,3E-36-14-02-00-00-00,Elementos para distribuição direta de água potável,3E-36-14-02-00-00-00
-136,"3E.04.20.00.00-Sistemas Hidrosanitários - 3,2 x 3,2 cm","3E.04.20.00.00-Sistemas Hidrosanitários - 3,2 x 3,2 cm",Concreto-Retangular-Coluna,Pilares estruturais,3E-36-14-02-00-00-00,Elementos para distribuição direta de água potável,3E-36-14-02-00-00-00
-152,"3E.04.20.00.00-Sistemas Hidrosanitários - 2,2 x 2,2 cm","3E.04.20.00.00-Sistemas Hidrosanitários - 2,2 x 2,2 cm",Concreto-Retangular-Coluna,Pilares estruturais,3E-36-14-02-00-00-00,Elementos para distribuição direta de água potável,3E-36-14-02-00-00-00
-315,"3E.04.20.00.00-Sistemas Hidrosanitários - 1,6 x 1,6 cm","3E.04.20.00.00-Sistemas Hidrosanitários - 1,6 x 1,6 cm",Concreto-Retangular-Coluna,Pilares estruturais,3E-36-14-02-00-00-00,Elementos para distribuição direta de água potável,3E-36-14-02-00-00-00
-402,S10-210x210/85cm,S10-210x210/85cm,FUN_Sapata_ CubicaPiramidal,Fundações estruturais,3E-10-02-04-00-00-00,Sapata,3E-10-02-04-00-00-00
-404,S9-170x170/65cm,S9-170x170/65cm,FUN_Sapata_ CubicaPiramidal,Fundações estruturais,3E-10-02-04-00-00-00,Sapata,3E-10-02-04-00-00-00
-414,S8-140x140/50cm,S8-140x140/50cm,FUN_Sapata_ CubicaPiramidal,Fundações estruturais,3E-10-02-04-00-00-00,Sapata,3E-10-02-04-00-00-00
-429,S12-185x110/50cm,S12-185x110/50cm,FUN_Sapata_ CubicaPiramidal,Fundações estruturais,3E-10-02-04-00-00-00,Sapata,3E-10-02-04-00-00-00
-430,S11-240x280/100cm,S11-240x280/100cm,FUN_Sapata_ CubicaPiramidal,Fundações estruturais,3E-10-02-04-00-00-00,Sapata,3E-10-02-04-00-00-00
-434,Concreto Magro -10cm,Concreto Magro -10cm,Laje de fundação,Fundações estruturais,3E-10-02-04-00-00-00,Sapata,3E-10-02-04-00-00-00
-454,CON-200,CON-200,Parede básica,Paredes,3E-02-04-06-00-00-00,Cortina de contenção,3E-02-04-06-00-00-00
-653,PA-190-Osso/Alvenaria19cm/Osso,PA-190-Osso/Alvenaria19cm/Osso,Parede básica,Paredes,3E-02-04-02-00-00-00,Muro de arrimo,3E-14-02-02-00-00-00
-676,30x50cm,30x50cm,EST_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-02-00-00,Pilar,3E-12-10-02-02-00-00
-682,30x30cm,30x30cm,EST_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-02-00-00,Pilar,3E-12-10-02-02-00-00
-697,30x60cm,30x60cm,EST_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-02-00-00,Pilar,3E-12-10-02-02-00-00
-699,35x60cm,35x60cm,EST_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-02-00-00,Pilar,3E-12-10-02-02-00-00
-700,40x70cm,40x70cm,EST_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-02-00-00,Pilar,3E-12-10-02-02-00-00
-701,42x60cm,42x60cm,EST_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-02-00-00,Pilar,3E-12-10-02-02-00-00
-702,30x45cm,30x45cm,EST_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-02-00-00,Pilar,3E-12-10-02-02-00-00
-703,45x45cm,45x45cm,EST_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-02-00-00,Pilar,3E-12-10-02-02-00-00
-705,44x50cm,44x50cm,EST_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-02-00-00,Pilar,3E-12-10-02-02-00-00
-707,105x30cm,105x30cm,EST_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-02-00-00,Pilar,3E-12-10-02-02-00-00
-708,Ø90cm,Ø90cm,CON_Tubulão_ConcretoCircular,Pilares estruturais,3E-10-04-04-00-00-00,Tubulão,3E-10-04-04-00-00-00
-781,30x30x30cm,30x30x30cm,CON_Pilar_ContraForteTriangular,Pilares estruturais,3E-02-04-02-00-00-00,Muro de arrimo,3E-02-04-02-00-00-00
-793,45x30x30cm,45x30x30cm,CON_Pilar_ContraForteTriangular,Pilares estruturais,3E-02-04-02-00-00-00,Muro de arrimo,3E-02-04-02-00-00-00
-794,30x30cm,30x30cm,CON_Pilar_ConcretoRetangular,Pilares estruturais,3E-02-04-02-00-00-00,Muro de arrimo,3E-02-04-02-00-00-00
-802,50x30cm,50x30cm,CON_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-02-00-00,Pilar,3E-12-10-02-02-00-00
-803,40x30cm,40x30cm,CON_Pilar_ConcretoRetangular,Pilares estruturais,3E-02-04-02-00-00-00,Muro de arrimo,3E-02-04-02-00-00-00
-806,20x20cm,20x20cm,CON_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-02-00-00,Pilar,3E-12-10-02-02-00-00
-807,30x45cm,30x45cm,CON_Pilar_ConcretoRetangular,Pilares estruturais,3E-02-04-02-00-00-00,Muro de arrimo,3E-02-04-02-00-00-00
-808,Ø200/Ø90_20/115cm,Ø200/Ø90_20/115cm,CON_Tubulão_BaseCircular,Pilares estruturais,3E-10-04-04-00-00-00,Tubulão,3E-10-04-04-00-00-00
-824,Ø50cm,Ø50cm,Fun_Estaca_ConcretoCircular,Pilares estruturais,,,3E-12-10-02-02-00-00
-838,Ø40cm,Ø40cm,Fun_Estaca_ConcretoCircular,Pilares estruturais,,,3E-12-10-02-02-00-00
-869,25x50cm/Cinta,25x50cm/Cinta,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-905,20x30cm/Cinta,20x30cm/Cinta,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-921,45x30cm/Cinta,45x30cm/Cinta,EST_Viga_ConcretoRetangular,Quadro estrutural,3E-02-04-02-00-00-00,Muro de arrimo,3E-02-04-02-00-00-00
-923,30x40cm/Cinta,30x40cm/Cinta,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-934,25x30cm,25x30cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-950,65x65cm/Cinta,65x65cm/Cinta,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-956,80x30cm,80x30cm,FUN_SapataCorrida_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-957,80x30cm,80x30cm,FUN_SapataCorrida_ConcretoRetangular,Quadro estrutural,3E-02-04-02-00-00-00,Muro de arrimo,3E-02-04-02-00-00-00
-969,"162,5x30cm","162,5x30cm",FUN_SapataCorrida_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-974,127x30cm,127x30cm,FUN_SapataCorrida_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-975,30x30cm,30x30cm,CON_Viga_ConcretoRetangular,Quadro estrutural,3E-02-04-02-00-00-00,Muro de arrimo,3E-02-04-02-00-00-00
-994,20x20cm,20x20cm,CON_Viga_ConcretoRetangular,Quadro estrutural,3E-02-04-02-00-00-00,Muro de arrimo,3E-02-04-02-00-00-00
-1017,20x20cm,20x20cm,CON_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1090,30x60cm,30x60cm,CON_Viga_ConcretoRetangular,Quadro estrutural,3E-02-04-02-00-00-00,Muro de arrimo,3E-02-04-02-00-00-00
-1094,40x30cm,40x30cm,CON_Viga_ConcretoRetangular,Quadro estrutural,3E-02-04-02-00-00-00,Muro de arrimo,3E-02-04-02-00-00-00
-1096,25X56cm,25X56cm,CON_Viga_ConcretoRetangular,Quadro estrutural,,,3E-12-06-02-00-00-00
-1159,Escada,Escada 13cm,Escada moldada no local,Escadas,3E-08-06-04-00-00-00,Escada,3E-08-06-04-00-00-00
-1162,20x30cm,20x30cm,EST_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-02-00-00,Pilar,3E-12-10-02-02-00-00
-1190,25x70cm,25x70cm,EST_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-02-00-00,Pilar,3E-12-10-02-02-00-00
-1191,25x80cm,25x80cm,EST_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-02-00-00,Pilar,3E-12-10-02-02-00-00
-1195,22x60cm,22x60cm,EST_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-02-00-00,Pilar,3E-12-10-02-02-00-00
-1197,40x40cm,40x40cm,CON_Pilar_ConcretoRetangular,Pilares estruturais,3E-02-04-06-00-00-00,Cortina de contenção,3E-02-04-06-00-00-00
-1211,PI-150-LajeConcreto,PI-150-LajeConcreto,Piso,Pisos,3E-12-06-08-00-00-00,Laje,3E-12-06-08-00-00-00
-1297,40x75cm,40x75cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1363,30x75cm,30x75cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1409,60x75cm,60x75cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1413,20x75cm,20x75cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1428,25x75cm,25x75cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-12-10-02-00-00-00
-1451,16x230cm,16x230cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1457,16x75cm,16x75cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1458,67x75cm,67x75cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1459,60x115cm,60x115cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1461,79x75cm,79x75cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1462,14x70cm,14x70cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1476,60x100cm,60x100cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1481,20x230cm,20x230cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1482,30x145cm,30x145cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1513,50x75cm,50x75cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1514,PD,PD,EST_Escada_Complemento,Quadro estrutural,,,3E-08-06-04-00-00-00
-1516,20x40cm,20x40cm,CON_Viga_ConcretoRetangular,Quadro estrutural,3E-12-06-02-00-00-00,Viga,3E-12-06-02-00-00-00
-1531,20x40cm,20x40cm,CON_Viga_ConcretoRetangular,Quadro estrutural,,,3E-12-06-02-00-00-00
-1541,30x80cm,30x80cm,CON_Viga_ConcretoRetangular,Quadro estrutural,3E-12-06-02-00-00-00,Viga,3E-12-06-02-00-00-00
-1558,45x45cm,45x45cm,CON_Viga_ConcretoRetangular,Quadro estrutural,3E-12-06-02-00-00-00,Viga,3E-12-06-02-00-00-00
-1559,120x40cm,120x40cm,CON_Viga_ConcretoRetangular,Quadro estrutural,3E-12-06-02-00-00-00,Viga,3E-12-06-02-00-00-00
-1620,20x220cm,20x220cm,EST_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-00-00-00,Estrutura de transmissão vertical de cargas,3E-12-10-02-00-00-00
-1621,20x414cm,20x414cm,EST_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-00-00-00,Estrutura de transmissão vertical de cargas,3E-12-10-02-00-00-00
-1622,25x240cm,25x240cm,EST_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-00-00-00,Estrutura de transmissão vertical de cargas,3E-12-10-02-00-00-00
-1627,25x165cm,25x165cm,EST_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-00-00-00,Estrutura de transmissão vertical de cargas,3E-12-10-02-00-00-00
-1628,25x265cm,25x265cm,EST_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-00-00-00,Estrutura de transmissão vertical de cargas,3E-12-10-02-00-00-00
-1629,25x140cm,25x140cm,EST_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-00-00-00,Estrutura de transmissão vertical de cargas,3E-12-10-02-00-00-00
-1635,19x140cm,19x140cm,EST_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-00-00-00,Estrutura de transmissão vertical de cargas,3E-12-10-02-00-00-00
-1636,14x40cm,14x40cm,EST_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-02-00-00,Pilar,3E-12-10-02-02-00-00
-1644,20x473cm,20x473cm,EST_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-00-00-00,Estrutura de transmissão vertical de cargas,3E-12-10-02-00-00-00
-1645,"22,5x220cm","22,5x220cm",EST_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-00-00-00,Estrutura de transmissão vertical de cargas,3E-12-10-02-00-00-00
-1652,PI-200-LajeConcreto,PI-200-LajeConcreto,Piso,Pisos,3E-12-06-08-00-00-00,Laje,3E-12-06-08-00-00-00
-1656,PI-200-LajeConcreto,PI-200-LajeConcreto,Piso,Pisos,3E-08-06-02-00-00-00,Rampa,3E-12-06-08-00-00-00
-1838,25x75cm,25x75cm,EST_Viga_ConcretoRetangular,Quadro estrutural,3E-12-10-02-00-00-00,Estrutura de transmissão vertical de cargas,3E-12-10-02-00-00-00
-1881,20x85cm,20x85cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1896,16x85cm,16x85cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1903,25x85cm,25x85cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1911,25x80cm,25x80cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1916,"20x212,5cm","20x212,5cm",EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1919,20x120cm,20x120cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1920,"20x62,5cm","20x62,5cm",EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1938,20x50cm,20x50cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1952,22x59cm,22x59cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1955,22x75cm,22x75cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1975,22x193cm,22x193cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1976,44x85cm,44x85cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1981,44x75cm,44x75cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1984,25x25cm,25x25cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1989,25x50cm,25x50cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1992,35x75cm,35x75cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1994,25x60cm,25x60cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1996,60x125cm,60x125cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-1997,"30x212,5cm","30x212,5cm",EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-2009,20x80cm,20x80cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-2010,40x85cm,40x85cm,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
-2014,PD,PD,EST_Escada_Complemento,Quadro estrutural,3E-08-06-04-00-00-00,Escada,3E-08-06-04-00-00-00
-2018,30x20cm,30x20cm,CON_Viga_ConcretoRetangular,Quadro estrutural,3E-02-04-06-00-00-00,Cortina de contenção,3E-02-04-06-00-00-00
-2072,PC-160-Osso/ParedeConcreto/Osso-EXT,PC-160-Osso/ParedeConcreto/Osso-EXT,Parede básica,Paredes,3E-14-02-02-00-00-00,Núcleo de parede,3E-14-02-02-00-00-00
-2132,PC-160-Osso/ParedeConcreto/Osso,PC-160-Osso/ParedeConcreto/Osso,Parede básica,Paredes,3E-14-02-02-00-00-00,Núcleo de parede,3E-14-02-02-00-00-00
-2195,PI-120-LajeConcreto,PI-120-LajeConcreto,Piso,Pisos,3E-12-06-08-00-00-00,Laje,3E-12-06-08-00-00-00
-2357,PC-100-Osso/ParedeConcreto/Osso,PC-100-Osso/ParedeConcreto/Osso,Parede básica,Paredes,3E-14-02-02-00-00-00,Núcleo de parede,3E-14-02-02-00-00-00
-2360,PI-140-LajeConcreto,PI-140-LajeConcreto,Piso,Pisos,3E-12-06-08-00-00-00,Laje,3E-12-06-08-00-00-00
-4973,M08-40cm,M08-40cm,ARQ_Barra_PCD,Peças hidrossanitárias,,,3E-06-04-16-00-00-00
-4978,M17-70cm,M17-70cm,ARQ_Barra_PCD,Peças hidrossanitárias,,,3E-06-04-16-00-00-00
-4980,M18-60cm,M18-60cm,ARQ_Barra_PCD,Peças hidrossanitárias,,,3E-06-04-16-00-00-00
-4982,GranitoBranco-120x55cm-D,GranitoBranco-120x55cm-D,ARQ_Bancada_Cozinha_Pia_Embutida,Componentes de gabinete,,,3E-56-04-00-00-00-00
-4983,M02-Bica Alta C-36-Regulador,M02-Bica Alta C-36-Regulador,ARQ_Torneira_Cozinha,Peças hidrossanitárias,,,3E-36-14-02-00-00-00
-4991,M21-46x30x17cm,M21-46x30x17cm,ARQ_Metais_CubaInoxEmbutir,Peças hidrossanitárias,,,3E-06-04-16-00-00-00
-4999,GranitoBranco-120x55cm-E,GranitoBranco-120x55cm-E,ARQ_Bancada_Cozinha_Pia_Embutida,Componentes de gabinete,,,3E-56-04-00-00-00-00
-5002,40x38cm,40x38cm,ARQ_Sanca_L,Componentes de gabinete,,,3E-16-02-04-00-00-00
-5004,61x38cm,61x38cm,ARQ_Sanca_L,Componentes de gabinete,,,3E-16-02-04-00-00-00
-5006,58x38cm,58x38cm,ARQ_Sanca_L,Componentes de gabinete,,,3E-16-02-04-00-00-00
-5008,23x20cm,23x20cm,ARQ_Sanca_L,Componentes de gabinete,,,3E-16-02-04-00-00-00
-5016,20x20cm,20x20cm,ARQ_Sanca_L,Componentes de gabinete,,,3E-12-10-02-02-00-00
-5032,50x20cm,50x20cm,ARQ_Sanca_L,Componentes de gabinete,,,3E-16-02-04-00-00-00
-5040,22x15cm,22x15cm,ARQ_Sanca_L,Componentes de gabinete,,,3E-16-02-04-00-00-00
-5048,10x20cm,10x20cm,ARQ_Sanca_L,Componentes de gabinete,,,3E-16-02-04-00-00-00
-5056,10x7cm,10x7cm,ARQ_Sanca_L,Componentes de gabinete,,,3E-16-02-04-00-00-00
-5079,40x7cm,40x7cm,ARQ_Sanca_L,Componentes de gabinete,,,3E-16-02-04-00-00-00
-5081,PD,PD,ARQ_Evaporadora,Componentes de gabinete,,,3E-50-06-02-00-00-00
-5089,Núcleo de parede,Núcleo de parede,ARQ_Condensadora,Componentes de gabinete,,,3E-50-06-04-00-00-00
-5097,GranitoBranco-120x55cm-E,GranitoBranco-120x55cm-E,ARQ_Bancada_Cozinha_Pia_Embutida_PCD,Componentes de gabinete,,,3E-56-04-00-00-00-00
-5098,M14-0860-Regulador,M14-0860-Regulador,ARQ_Torneira_Cozinha_PCD,Peças hidrossanitárias,,,3E-06-04-16-00-00-00
-5103,M12-0860,M12-0860,ARQ_Torneira_Cozinha_PCD,Peças hidrossanitárias,,,3E-06-04-16-00-00-00
-5104,GranitoBranco-120x55cm-D,GranitoBranco-120x55cm-D,ARQ_Bancada_Cozinha_Pia_Embutida_PCD,Componentes de gabinete,,,3E-56-04-00-00-00-00
-5105,7 pontos,7 pontos,ARQ_Sifao-adaptativa-ESQ,Equipamento especial,,,3E-20-02-02-00-00-00
-5109,7 pontos,7 pontos,ARQ_Sifao-adaptativa-DIR,Equipamento especial,,,3E-20-02-02-00-00-00
-5113,Escada,Stair-PI06-PisoEscada,Escada montada,Escadas,,,3E-08-06-04-00-00-00
-5114,FO03-030-PinturaBranca/PlacaRU_Acrilica_Antimofo,FO03-030-PinturaBranca/PlacaRU_Acrilica_Antimofo,Forro composto,Forros,,,3E-14-02-04-00-00-00
-5131,TE01-005-PinturaBrancaLisa_Acrilica_Antimofo_Massa,TE01-005-PinturaBrancaLisa_Acrilica_Antimofo_Massa,Forro composto,Forros,,,3E-16-04-02-00-00-00
-5161,FO02-030-PinturaBranca/PlacaST_Acrilica,FO02-030-PinturaBranca/PlacaST_Acrilica,Forro composto,Forros,,,3E-14-02-04-00-00-00
-5162,TE03-005-PinturaBrancaLisa_Acrilica_Massa,TE03-005-PinturaBrancaLisa_Acrilica_Massa,Forro composto,Forros,,,3E-16-04-02-00-00-00
-5178,TE02-005-PinturaCinzaClaro_Texturizada_Acrilica_Laje,TE02-005-PinturaCinzaClaro_Texturizada_Acrilica_Laje,Forro composto,Forros,,,3E-16-04-02-00-00-00
-5182,ARQ_Corrimão_Parede_Duplo_Unido-Nenhum,ARQ_Corrimão_Parede_Duplo_Unido-Nenhum,Guarda-corpo,Guarda-corpos,,,3E-08-04-10-00-00-00
-5183,ARQ_Corrimão_Parede_Duplo_Separado-Final,ARQ_Corrimão_Parede_Duplo_Separado-Final,Guarda-corpo,Guarda-corpos,,,3E-08-04-10-00-00-00
-5184,ARQ_GradilVaranda_AlumínioBranco,ARQ_GradilVaranda_AlumínioBranco,Guarda-corpo,Guarda-corpos,,,3E-08-04-10-00-00-00
-5192,"J01A-59,5x76,5","J01A-59,5x76,5",ARQ_Janela_Aluminio_1F_Maximar_Bandeira,Janelas,,,3E-20-04-02-00-00-00
-5208,"J05-134,5x107,5","J05-134,5x107,5",ARQ_Janela_Aluminio_2F_Correr,Janelas,,,3E-20-04-02-00-00-00
-5219,"J09-94,5x107,5","J09-94,5x107,5",ARQ_Janela_Aluminio_2F_Correr,Janelas,,,3E-20-04-02-00-00-00
-5226,"J04-119,5x107,5","J04-119,5x107,5",ARQ_Janela_Aluminio_2F_Correr,Janelas,,,3E-20-04-02-00-00-00
-5231,"J03-95,5x151,5","J03-95,5x151,5",ARQ_Janela_Aluminio_2F_Correr_Bandeira,Janelas,,,3E-20-04-02-00-00-00
-5235,"J13-119,5x149,5","J13-119,5x149,5",ARQ_Janela_Aluminio_2F_Correr_Bandeira,Janelas,,,3E-20-04-02-00-00-00
-5237,"J11-94,5x149,5","J11-94,5x149,5",ARQ_Janela_Aluminio_2F_Correr_Bandeira,Janelas,,,3E-20-04-02-00-00-00
-5239,"J12-134,5x149,5","J12-134,5x149,5",ARQ_Janela_Aluminio_2F_Correr_Bandeira,Janelas,,,3E-20-04-02-00-00-00
-5242,"J26-113,5x149,5","J26-113,5x149,5",ARQ_Janela_Aluminio_2F_Maximar_Bandeira,Janelas,,,3E-20-04-02-00-00-00
-5243,"J15-52,5x32,5","J15-52,5x32,5",ARQ_Janela_Aluminio_1F_Veneziana_Trox,Janelas,,,3E-20-04-02-00-00-00
-5244,DCF-01B-20x20,DCF-01B-20x20,ARQ_Janela_Dumper_SemHost,Janelas,,,3E-12-10-02-02-00-00
-5246,7W_11x11_Romalux,7W_11x11_Romalux,ARQ_Luminaria_Plafon_Embutir,Luminárias,,,3E-58-00-00-00-00-00
-5258,21W_30x30_Romalux,21W_30x30_Romalux,ARQ_Luminaria_Plafon_Sobrepor,Luminárias,,,3E-58-00-00-00-00-00
-5259,Núcleo de parede,Núcleo de parede,ARQ_BlocoAutonomo,Luminárias,,,3E-50-06-04-00-00-00
-5264,PD,PD,ARQ_SensorPresença,Luminárias,,,3E-58-00-00-00-00-00
-5273,Tartaruga_PVC_7W,Tartaruga_PVC_7W,ARQ_Luminaria_ArandelaSimples,Luminárias,,,3E-58-00-00-00-00-00
-5275,PD,PD,ARQ_SensorPresença_Parede,Luminárias,,,3E-58-00-00-00-00-00
-5276,PC-160-Osso/ParedeConcreto/Osso-EXT-REF,PC-160-Osso/ParedeConcreto/Osso-EXT-REF,Parede básica,Paredes,,,3E-14-02-02-00-00-00
-5351,PC-160-Osso/ParedeConcreto/Osso-REF,PC-160-Osso/ParedeConcreto/Osso-REF,Parede básica,Paredes,,,3E-14-02-02-00-00-00
-5406,DW-012-PlacaST,DW-012-PlacaST,Parede básica,Paredes,,,3E-14-02-02-00-00-00
-5420,SH02-030-PlacaST_Shaft,SH02-030-PlacaST_Shaft,Parede básica,Paredes,,,3E-14-02-04-00-00-00
-5431,SH01-030-PlacaRU_Shaft,SH01-030-PlacaRU_Shaft,Parede básica,Paredes,,,3E-14-02-04-00-00-00
-5504,"RE02-010-Ceramico33,5x60cm_Banheiro","RE02-010-Ceramico33,5x60cm_Banheiro",Parede básica,Paredes,,,3E-14-02-02-00-00-00
-5588,DW-012-PlacaRU,DW-012-PlacaRU,Parede básica,Paredes,,,3E-14-02-04-00-00-00
-5596,RE01-010-Ceramico7x25cm-Cozinha,RE01-010-Ceramico7x25cm-Cozinha,Parede básica,Paredes,,,3E-14-02-02-00-00-00
-5620,DW-100-PlacaST/DW70/PlacaST,DW-100-PlacaST/DW70/PlacaST,Parede básica,Paredes,,,3E-14-02-04-00-00-00
-5659,DW-100-PlacaRU/DW70/PlacaST,DW-100-PlacaRU/DW70/PlacaST,Parede básica,Paredes,,,3E-14-02-04-00-00-00
-5702,DW-100-PlacaRU/DW70/PlacaRU,DW-100-PlacaRU/DW70/PlacaRU,Parede básica,Paredes,,,3E-14-02-04-00-00-00
-5715,PC-100-Osso/ParedeConcreto/Osso-REF,PC-100-Osso/ParedeConcreto/Osso-REF,Parede básica,Paredes,,,3E-14-02-02-00-00-00
-5716,XX-160-FechamentoElevador,XX-160-FechamentoElevador,Parede básica,Paredes,,,3E-14-02-04-00-00-00
-5720,FA01-002-PinturaBrancoNeve_Acrilica_Massa,FA01-002-PinturaBrancoNeve_Acrilica_Massa,Parede básica,Paredes,,,3E-14-02-02-00-00-00
-5791,RE08-002-PinturaCinzaClaroTexturizada_Acrilica_Massa,RE08-002-PinturaCinzaClaroTexturizada_Acrilica_Massa,Parede básica,Paredes,,,3E-14-02-02-00-00-00
-5804,R04-RodapeEscada,R04-RodapeEscada,Parede básica,Paredes,,,3E-16-06-04-00-00-00
-5815,RE05-001-PinturaCal_Parede,RE05-001-PinturaCal_Parede,Parede básica,Paredes,,,3E-14-02-02-00-00-00
-5831,10x10cm,10x10cm,ARQ_RaloSifonado,Peças hidrossanitárias,,,3E-06-04-16-00-00-00
-5880,L01-Bacia Sanitaria Monobloco,L01-Bacia Sanitaria Monobloco,ARQ_Bacia_Sanitaria_Caixa_Acoplada,Peças hidrossanitárias,,,3E-42-04-02-00-00-00
-5892,L04-Bacia Sanitaria Monobloco PCD,L04-Bacia Sanitaria Monobloco PCD,ARQ_Bacia_Sanitaria_Caixa_Acoplada,Peças hidrossanitárias,,,3E-42-04-02-00-00-00
-5893,M07-80cm,M07-80cm,ARQ_Barra_PCD,Peças hidrossanitárias,,,3E-06-04-16-00-00-00
-5913,M06-80cm,M06-80cm,ARQ_BarradeApoioLateralArticulada,Peças hidrossanitárias,,,3E-06-04-16-00-00-00
-5921,L03-Lavatorio Suspenso,L03-Lavatorio Suspenso,ARQ_Lavatorio,Peças hidrossanitárias,,,3E-42-04-02-00-00-00
-5922,M01-Bica Alta C-36-Regulador,M01-Bica Alta C-36-Regulador,ARQ_Torneira_Banheiro,Peças hidrossanitárias,,,3E-36-14-02-00-00-00
-5945,Chuveiro Eletrico,Chuveiro Eletrico,ARQ_Chuveiro,Peças hidrossanitárias,,,3E-06-04-16-00-00-00
-5961,CA01-Carenagem-Semi-circular-55cm,CA01-Carenagem-Semi-circular-55cm,ARQ_Carenagem,Peças hidrossanitárias,,,3E-06-04-16-00-00-00
-5978,L02-Tanque Sintetico,L02-Tanque Sintetico,ARQ_Tanque_Sintetico,Peças hidrossanitárias,,,3E-06-04-16-00-00-00
-5979,M13-Bica Alta C-36-Regulador,M13-Bica Alta C-36-Regulador,ARQ_Torneira_AS,Peças hidrossanitárias,,,3E-36-14-02-00-00-00
-5994,L05-Lavatorio de Canto,L05-Lavatorio de Canto,ARQ_Lavatorio_Canto,Peças hidrossanitárias,,,3E-42-04-02-00-00-00
-5995,M15-PCD 0863-Regulador,M15-PCD 0863-Regulador,ARQ_Torneira_Banheiro_PCD,Peças hidrossanitárias,,,3E-36-14-02-00-00-00
-6002,L03-Lavatorio Suspenso,L03-Lavatorio Suspenso,ARQ_Lavatorio_PCD,Peças hidrossanitárias,,,3E-42-04-02-00-00-00
-6004,M09,M09,ARQ_BancoArticulado,Peças hidrossanitárias,,,3E-06-04-16-00-00-00
-6008,M05-Acabamento Registro,M05-Acabamento Registro,ARQ_AcabamentoRegistro,Peças hidrossanitárias,,,3E-42-02-04-00-00-00
-6048,PI03-040-Porcelanato60x60cm_Cinza,PI03-040-Porcelanato60x60cm_Cinza,Piso,Pisos,,,3E-16-02-04-00-00-00
-6099,PI03-035-Porcelanato60x60cm_Cinza,PI03-035-Porcelanato60x60cm_Cinza,Piso,Pisos,,,3E-16-02-04-00-00-00
-6107,PI06-001-PisoEscada,PI06-001-PisoEscada,Piso,Pisos,,,3E-16-02-04-00-00-00
-6108,PI05-010-PisoLaminadoHall,PI05-010-PisoLaminadoHall,Piso,Pisos,,,3E-16-02-04-00-00-00
-6110,P02A-80x210,P02A-80x210,ARQ_Porta_Madeira_1F_Abrir,Portas,,,3E-20-02-02-00-00-00
-6118,P01C-70x210,P01C-70x210,ARQ_Porta_Madeira_1F_Abrir,Portas,,,3E-20-02-02-00-00-00
-6122,P01A-70x210,P01A-70x210,ARQ_Porta_Madeira_1F_Abrir,Portas,,,3E-20-02-02-00-00-00
-6137,P01B-70x210,P01B-70x210,ARQ_Porta_Madeira_1F_Abrir,Portas,,,3E-20-02-02-00-00-00
-6146,P02D-80x210,P02D-80x210,ARQ_Porta_Madeira_1F_Abrir,Portas,,,3E-20-02-02-00-00-00
-6152,P02C-80x210,P02C-80x210,ARQ_Porta_Madeira_1F_Abrir,Portas,,,3E-20-02-02-00-00-00
-6154,P02B-80x210,P02B-80x210,ARQ_Porta_Madeira_1F_Abrir,Portas,,,3E-20-02-02-00-00-00
-6156,"P06-159,5x235","P06-159,5x235",ARQ_Porta_Aluminio_2F_Correr,Portas,,,3E-20-02-02-00-00-00
-6162,PCF01B-80x210,PCF01B-80x210,ARQ_Porta_PCF_1F_Abrir_PC,Portas,,,3E-20-02-02-00-00-00
-6163,80x210,80x210,ARQ_Porta_Aço_2F_Elevador,Portas,,,3E-20-02-02-00-00-00
-6167,P13-150x235,P13-150x235,ARQ_Porta_Aluminio_1F_Abrir_VidroFixo,Portas,,,3E-20-02-02-00-00-00
-6169,"GI-01-32,5x12,5","GI-01-32,5x12,5",ARQ_Janela_Grelha_1F,Janelas,,,3E-20-04-02-00-00-00
-6170,"GE-01-32,5x12,5","GE-01-32,5x12,5",ARQ_Janela_Grelha_1F,Janelas,,,3E-20-04-02-00-00-00
-6171,ARQ_Corrimão_Parede_Duplo_Separado-Final_Preto,ARQ_Corrimão_Parede_Duplo_Separado-Final_Preto,Guarda-corpo,Guarda-corpos,3E-08-04-10-00-00-00,Guarda-corpo,3E-08-04-10-00-00-00
-6173,ARQ_Corrimão_Parede_Duplo_Separado-Final,ARQ_Corrimão_Parede_Duplo_Separado-Final,Guarda-corpo,Guarda-corpos,3E-08-04-10-00-00-00,Guarda-corpo,3E-08-04-10-00-00-00
-6180,ARQ_Corrimão_Parede_Duplo_Separado-Nenhum,ARQ_Corrimão_Parede_Duplo_Separado-Nenhum,Guarda-corpo,Guarda-corpos,3E-08-04-10-00-00-00,Guarda-corpo,3E-08-04-10-00-00-00
-6181,8W_TL9020,8W_TL9020,ARQ_Luminaria_Balizador_Embutido_PisoSolo,Luminárias,,,3E-58-00-00-00-00-00
-6198,Modelo5,Modelo5,ARQ_BancoLojas,Mobiliário,3E-56-04-00-00-00-00,Elementos de mobiliário,3E-56-04-00-00-00-00
-6199,Ardósia,Ardósia,ARQ_Pingadeira,Modelos genéricos,3E-16-02-08-00-00-00,Pingadeira,3E-16-02-08-00-00-00
-6340,Granito Preto,Granito Preto,ARQ_Pingadeira,Modelos genéricos,3E-16-02-08-00-00-00,Pingadeira,3E-16-02-08-00-00-00
-6389,Granito Preto,Granito Preto,ARQ_Soleira,Modelos genéricos,3E-16-02-06-00-00-00,Soleira,3E-16-02-06-00-00-00
-6440,M19,M19,ARQ_Ducha_Externa,Peças hidrossanitárias,3E-36-14-02-00-00-00,Elementos para distribuição direta de água potável,3E-36-14-02-00-00-00
-6441,Ø150mm,Ø150mm,ARQ_ColetorPluvial,Peças hidrossanitárias,3E-40-06-02-00-00-00,Elementos de instalações de água pluvial,3E-40-06-02-00-00-00
-6444,M04-Parede 1130,M04-Parede 1130,ARQ_Torneira_Parede,Peças hidrossanitárias,3E-36-14-02-00-00-00,Elementos para distribuição direta de água potável,3E-36-14-02-00-00-00
-6445,Núcleo de parede,Núcleo de parede,ARQ_Condensadora,Componentes de gabinete,3E-50-06-04-00-00-00,Condensador para troca de calor de sistemas de refrigeração,3E-50-06-04-00-00-00
-6476,250x450cm (PCD),250x450cm (PCD),ARQ_Vaga,Estacionamento,3E-08-08-10-00-00-00,Elementos de sinalização,3E-08-08-10-00-00-00
-6478,"6x1,2m","6x1,2m",ARQ_FaixaIsolada,Estacionamento,3E-08-08-10-00-00-00,Elementos de sinalização,3E-08-08-10-00-00-00
-6479,17x50cm,17x50cm,ARQ_BateRodas_Concreto,Estacionamento,3E-08-04-22-00-00-00,Barreira de tráfego,3E-08-04-22-00-00-00
-6493,TE06-001-LajeAparente_Tratada,TE06-001-LajeAparente_Tratada,Forro composto,Forros,3E-12-06-08-00-00-00,Laje,3E-12-06-08-00-00-00
-6497,ARQ_Mureta_10x10cm,ARQ_Mureta_10x10cm,Guarda-corpo,Guarda-corpos,3E-08-04-02-00-00-00,Meio-fio,3E-08-04-02-00-00-00
-6503,ARQ_Guia_20x20cm,ARQ_Guia_20x20cm,Guarda-corpo,Guarda-corpos,3E-08-04-02-00-00-00,Meio-fio,3E-08-04-02-00-00-00
-6509,12W_TLEX 9422,12W_TLEX 9422,ARQ_Luminaria_Embutido_Solo,Luminárias,,,3E-58-00-00-00-00-00
-6528,48W_2 Petalas,48W_2 Petalas,ARQ_PostePetala,Luminárias,,,3E-58-00-00-00-00-00
-6558,50W,50W,ARQ_Luminaria_Refletor,Luminárias,,,3E-58-00-00-00-00-00
-6577,Modelo1,Modelo1,ARQ_BancoLojas,Mobiliário,3E-56-04-00-00-00-00,Elementos de mobiliário,3E-56-04-00-00-00-00
-6578,Modelo2,Modelo2,ARQ_BancoLojas,Mobiliário,3E-56-04-00-00-00-00,Elementos de mobiliário,3E-56-04-00-00-00-00
-6579,Modelo3,Modelo3,ARQ_BancoLojas,Mobiliário,3E-56-04-00-00-00-00,Elementos de mobiliário,3E-56-04-00-00-00-00
-6580,Granito Cinza,Granito Cinza,ARQ_Soleira,Modelos genéricos,3E-16-02-06-00-00-00,Soleira,3E-16-02-06-00-00-00
-6603,Vitrine_AlumínioBranco_100x40mm,Vitrine_AlumínioBranco_100x40mm,Rectangular Mullion,Montantes de parede cortina,3E-14-02-04-00-00-00,Elementos de vedações,3E-14-02-04-00-00-00
-6727,Gradil_AcoPreto_35x35mm,Gradil_AcoPreto_35x35mm,Rectangular Mullion,Montantes de parede cortina,3E-08-04-10-00-00-00,Guarda-corpo,3E-08-04-10-00-00-00
-6883,PA-190-Osso/Alvenaria19cm/Osso,PA-190-Osso/Alvenaria19cm/Osso,Parede básica,Paredes,3E-14-02-02-00-00-00,Núcleo de parede,3E-14-02-02-00-00-00
-6921,SH01-030-PlacaRU_Shaft,SH01-030-PlacaRU_Shaft,Parede básica,Paredes,3E-14-02-04-00-00-00,Elementos de vedações,3E-14-02-04-00-00-00
-6926,RE04-025-Ceramico30x40cm_Loja,RE04-025-Ceramico30x40cm_Loja,Parede básica,Paredes,3E-14-02-02-00-00-00,Núcleo de parede,3E-14-02-02-00-00-00
-6934,RE04-010-Ceramico30x40cm_Loja,RE04-010-Ceramico30x40cm_Loja,Parede básica,Paredes,3E-14-02-02-00-00-00,Núcleo de parede,3E-14-02-02-00-00-00
-6938,RE-025-Reboco,RE-025-Reboco,Parede básica,Paredes,3E-14-02-02-00-00-00,Núcleo de parede,3E-14-02-02-00-00-00
-6942,L03-Lavatorio Suspenso,L03-Lavatorio Suspenso,ARQ_Lavatorio_PCD,Peças hidrossanitárias,3E-42-04-02-00-00-00,Elementos de instalações sanitárias,3E-42-04-02-00-00-00
-6944,M03-PCD 0863,M03-PCD 0863,ARQ_Torneira_Banheiro_PCD,Peças hidrossanitárias,3E-36-14-02-00-00-00,Elementos para distribuição direta de água potável,3E-36-14-02-00-00-00
-6946,L04-Bacia Sanitaria Monobloco PCD,L04-Bacia Sanitaria Monobloco PCD,ARQ_Bacia_Sanitaria_Caixa_Acoplada,Peças hidrossanitárias,3E-42-04-02-00-00-00,Elementos de instalações sanitárias,3E-42-04-02-00-00-00
-6948,10x10cm,10x10cm,ARQ_RaloSifonado,Peças hidrossanitárias,3E-06-04-16-00-00-00,Caixa coletora de drenagem superficial,3E-06-04-16-00-00-00
-6950,M05-Acabamento Registro,M05-Acabamento Registro,ARQ_AcabamentoRegistro,Peças hidrossanitárias,3E-42-02-04-00-00-00,Registro de instalação sanitária,3E-42-02-04-00-00-00
-6952,PI-100-ContrapisoArmado,PI-100-ContrapisoArmado,Piso,Pisos,3E-16-02-02-00-00-00,Pisos,3E-16-02-02-00-00-00
-6955,PI01-040-PisoCerâmico45x45cm_Cinza,PI01-040-PisoCerâmico45x45cm_Cinza,Piso,Pisos,3E-16-02-04-00-00-00,Revestimento de piso,3E-16-02-04-00-00-00
-6957,PI-080-ContrapisoArmado,PI-080-ContrapisoArmado,Piso,Pisos,3E-16-02-02-00-00-00,Pisos,3E-16-02-02-00-00-00
-6959,PI-050-Calcada,PI-050-Calcada,Piso,Pisos,3E-16-02-02-00-00-00,Pisos,3E-16-02-02-00-00-00
-6960,PI09-100-Asfalto,PI09-100-Asfalto,Piso,Pisos,3E-16-02-04-00-00-00,Revestimento de piso,3E-16-02-04-00-00-00
-6962,PI08-010-PisoEstampado_Natural,PI08-010-PisoEstampado_Natural,Piso,Pisos,3E-16-02-04-00-00-00,Revestimento de piso,3E-16-02-04-00-00-00
-6978,PI-050-Grama,PI-050-Grama,Piso,Pisos,3E-02-12-02-00-00-00,Gramas,3E-02-12-02-00-00-00
-6995,"PI10-040-Porcelanato19,7x120cm_Peroba","PI10-040-Porcelanato19,7x120cm_Peroba",Piso,Pisos,3E-16-02-04-00-00-00,Revestimento de piso,3E-16-02-04-00-00-00
-6996,PI07-010-PisoEstampado_CinzaEscuro,PI07-010-PisoEstampado_CinzaEscuro,Piso,Pisos,3E-16-02-04-00-00-00,Revestimento de piso,3E-16-02-04-00-00-00
-6997,P14B-80x210,P14B-80x210,ARQ_Porta_Madeira_1F_Abrir_PCD,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
-6999,P07-160x240,P07-160x240,ARQ_CW_Porta_Alumínio_2F_Correr_Vidro,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
-7001,M11,M11,ARQ_Exaustor_Banheiro,Terminais de ar,3E-30-04-08-00-00-00,Chaminé de exaustão,3E-30-04-08-00-00-00
-7173,P03-80x212,P03-80x212,ARQ_Porta_Madeira_1F_Correr,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
-7556,J02-82x134,J02-82x134,ARQ_Janela_Aluminio_4F_Maximar_Fixa,Janelas,3E-20-04-02-00-00-00,Janelas,3E-20-04-02-00-00-00
-7557,Granito Cinza,Granito Cinza,ARQ_Pingadeira,Modelos genéricos,3E-16-02-08-00-00-00,Pingadeira,3E-16-02-08-00-00-00
-7558,TE05-005-PinturaBrancaLisa_Acrilica_Laje,TE05-005-PinturaBrancaLisa_Acrilica_Laje,Forro composto,Forros,3E-16-04-02-00-00-00,Elementos de acabamentos,3E-16-04-02-00-00-00
-7563,12W_17x17_Mbled,12W_17x17_Mbled,ARQ_Luminaria_Plafon_Sobrepor,Luminárias,,,3E-58-00-00-00-00-00
-7567,RE03-010-Ceramico30x40cm_A.R.S.,RE03-010-Ceramico30x40cm_A.R.S.,Parede básica,Paredes,3E-14-02-04-00-00-00,Acabamento de parede,3E-14-02-04-00-00-00
-7568,15x15cm,15x15cm,ARQ_RaloSifonado,Peças hidrossanitárias,3E-06-04-16-00-00-00,Caixa coletora de drenagem superficial,3E-06-04-16-00-00-00
-7570,PI02-040-PisoCerâmico54x54cm_Branco,PI02-040-PisoCerâmico54x54cm_Branco,Piso,Pisos,3E-16-02-04-00-00-00,Revestimento de piso,3E-16-02-04-00-00-00
-7572,P04-122x210,P04-122x210,ARQ_Porta_Aluminio_2F_Abrir_Ventilação,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
-7573,Reservatório 500L em Polietileno,Reservatório 500L em Polietileno,ARQ_Reservatorio_Fibra,Peças hidrossanitárias,3E-38-02-08-00-00-00,Reservatório de água,3E-38-02-08-00-00-00
-7575,10x10cm,10x10cm,ARQ_RaloSifonado_SemHost,Peças hidrossanitárias,3E-06-04-16-00-00-00,Caixa coletora de drenagem superficial,3E-06-04-16-00-00-00
-7580,10x10cm,10x10cm,ARQ_RaloSifonado_SemHost,Peças hidrossanitárias,3E-06-04-16-00-00-00,Elementos para distribuição direta de água potável,3E-06-04-16-00-00-00
-7589,ARQ_GradiMarquise_AcoPretoHorizontal_130cm,ARQ_GradiMarquise_AcoPretoHorizontal_130cm,Guarda-corpo,Guarda-corpos,3E-08-04-10-00-00-00,Guarda-corpo,3E-08-04-10-00-00-00
-7591,FA06-020-PinturaCinzaGranito_Acrilica_Reboco,FA06-020-PinturaCinzaGranito_Acrilica_Reboco,System Panel,Painéis cortina,,,3E-14-02-04-00-00-00
-7658,PC-160-Osso/ParedeConcreto/Osso-VED,PC-160-Osso/ParedeConcreto/Osso-VED,Parede básica,Paredes,3E-14-02-02-00-00-00,Núcleo de parede,3E-14-02-02-00-00-00
-7678,PC-240-Osso/ParedeConcreto/Osso-VED,PC-240-Osso/ParedeConcreto/Osso-VED,Parede básica,Paredes,3E-14-02-02-00-00-00,Núcleo de parede,3E-14-02-02-00-00-00
-7679,PC-100-Osso/ParedeConcreto/Osso-VED,PC-100-Osso/ParedeConcreto/Osso-VED,Parede básica,Paredes,3E-14-02-02-00-00-00,Núcleo de parede,3E-14-02-02-00-00-00
-7682,RE-020-Reboco,RE-020-Reboco,Parede básica,Paredes,3E-14-02-02-00-00-00,Núcleo de parede,3E-14-02-02-00-00-00
-7683,R04-RodapeEscada,R04-RodapeEscada,Parede básica,Paredes,3E-16-06-04-00-00-00,Rodapé,3E-16-06-04-00-00-00
-7690,PI-022-Impermeabilização_Externa,PI-022-Impermeabilização_Externa,Piso,Pisos,3E-16-02-04-00-00-00,Elementos de impermeabilização,3E-16-02-04-00-00-00
-7691,PI04-001-PisoElevador,PI04-001-PisoElevador,Piso,Pisos,3E-16-02-04-00-00-00,Revestimento de piso,3E-16-02-04-00-00-00
-7692,Escada,Stair-PI06-PisoEscada,Escada montada,Escadas,3E-08-06-04-00-00-00,Pisos,3E-08-06-04-00-00-00
-7694,"J15-52,5x32,5","J15-52,5x32,5",ARQ_Janela_Aluminio_1F_Veneziana_Trox,Janelas,3E-20-04-02-00-00-00,Janelas,3E-20-04-02-00-00-00
-7695,2x18W_152205,2x18W_152205,ARQ_Luminaria_LinearT8_Sobrepor,Luminárias,,,3E-58-00-00-00-00-00
-7788,30W,30W,ARQ_Luminaria_Refletor,Luminárias,,,3E-58-00-00-00-00-00
-7806,7W_11x11_Romalux,7W_11x11_Romalux,ARQ_Luminaria_Plafon_Sobrepor,Luminárias,,,3E-58-00-00-00-00-00
-7807,9W_15x15_Prime,9W_15x15_Prime,ARQ_Luminaria_Plafon_Sobrepor,Luminárias,,,3E-58-00-00-00-00-00
-7809,PD,PD,ARQ_SensorPresença,Luminárias,3E-58-00-00-00-00-00,Elementos de automação,3E-58-00-00-00-00-00
-7885,PD,PD,ARQ_SensorPresença_Parede,Luminárias,3E-58-00-00-00-00-00,Elementos de automação,3E-58-00-00-00-00-00
-7893,SINALIZAÇÃO,SINALIZAÇÃO,ARQ_Smb_PCD_Escada,Modelos genéricos,3E-08-08-10-00-00-00,Elementos de sinalização,3E-08-08-10-00-00-00
-7895,FA07-020-PinturaCinzaMisterioso_Acrilica_Reboco,FA07-020-PinturaCinzaMisterioso_Acrilica_Reboco,System Panel,Painéis cortina,,,3E-14-02-04-00-00-00
-7961,FA05-020-PinturaMagiaProfunda_Acrilica_Reboco,FA05-020-PinturaMagiaProfunda_Acrilica_Reboco,System Panel,Painéis cortina,,,3E-14-02-04-00-00-00
-7986,XX-160-FechamentoElevador,XX-160-FechamentoElevador,Parede básica,Paredes,3E-14-02-04-00-00-00,Elementos de vedações,3E-14-02-04-00-00-00
-8018,PD,PD,ARQ_RaloLinear,Peças hidrossanitárias,3E-06-04-16-00-00-00,Elementos para distribuição direta de água potável,3E-06-04-16-00-00-00
-8036,PI-150-Impermeabilização_Enchimento_Externo,PI-150-Impermeabilização_Enchimento_Externo,Piso,Pisos,3E-16-02-04-00-00-00,Elementos de impermeabilização,3E-16-02-04-00-00-00
-8042,PI06-001-PisoEscada,PI06-001-PisoEscada,Piso,Pisos,3E-16-02-04-00-00-00,Revestimento de piso,3E-16-02-04-00-00-00
-8045,PCF01B-80x210,PCF01B-80x210,ARQ_Porta_PCF_1F_Abrir_PC,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
-8046,80x210,80x210,ARQ_Porta_Aço_2F_Elevador,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
-8050,PCF04-80x210,PCF04-80x210,ARQ_Porta_PCF_1F_Abrir_PA,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
-8051,P02A-80x210,P02A-80x210,ARQ_Porta_Madeira_1F_Abrir,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
-8064,PA-090-Osso/Alvenaria9cm/Osso,PA-090-Osso/Alvenaria9cm/Osso,Parede básica,Paredes,3E-14-02-02-00-00-00,Núcleo de parede,3E-14-02-02-00-00-00
-8069,20x20,20x20,ARQ_Pergolado_Pilar,Pilares estruturais,3E-12-10-02-02-00-00,Pilar,3E-12-10-02-02-00-00
-8079,J10B-117x54,J10B-117x54,ARQ_Janela_Aluminio_2F_Correr,Janelas,3E-20-04-02-00-00-00,Janelas,3E-20-04-02-00-00-00
-8083,GranitoBranco-670x35cm-E,GranitoBranco-670x35cm-E,ARQ_Bancada_Churrasqueira_Banheiro_SemiEncaixe,Componentes de gabinete,3E-56-04-00-00-00-00,Elementos de mobiliário,3E-56-04-00-00-00-00
-8084,GranitoBranco-670x35cm-D,GranitoBranco-670x35cm-D,ARQ_Bancada_Churrasqueira_Banheiro_SemiEncaixe,Componentes de gabinete,3E-56-04-00-00-00-00,Elementos de mobiliário,3E-56-04-00-00-00-00
-8085,GranitoBranco-252x40cm,GranitoBranco-252x40cm,ARQ_Bancada_Churrasqueira_Ilha,Componentes de gabinete,3E-56-04-00-00-00-00,Elementos de mobiliário,3E-56-04-00-00-00-00
-8086,GranitoBranco-312x55cm,GranitoBranco-312x55cm,ARQ_Bancada_Churrasqueira_AM_Pia_Embutida,Componentes de gabinete,3E-56-04-00-00-00-00,Elementos de mobiliário,3E-56-04-00-00-00-00
-8087,GranitoBranco-820x35cm-D,GranitoBranco-820x35cm-D,ARQ_Bancada_Salao_Banheiro_SemiEncaixe,Componentes de gabinete,3E-56-04-00-00-00-00,Elementos de mobiliário,3E-56-04-00-00-00-00
-8089,GranitoBranco-115x35cm,GranitoBranco-115x35cm,ARQ_Bancada_Salao_Banheiro_SemiEncaixe,Componentes de gabinete,3E-56-04-00-00-00-00,Elementos de mobiliário,3E-56-04-00-00-00-00
-8090,GranitoBranco-1358x540cm,GranitoBranco-1358x540cm,ARQ_Bancada_Salao_L_Pia_Embutida,Componentes de gabinete,3E-56-04-00-00-00-00,Elementos de mobiliário,3E-56-04-00-00-00-00
-8091,GranitoBranco-120x55cm-C,GranitoBranco-120x55cm-C,ARQ_Bancada_Cozinha_Pia_Embutida_PCD,Componentes de gabinete,3E-56-04-00-00-00-00,Elementos de mobiliário,3E-56-04-00-00-00-00
-8092,GranitoBranco-112x54cm,GranitoBranco-112x54cm,ARQ_Bancada_Salao_Cozinha_L,Componentes de gabinete,3E-56-04-00-00-00-00,Elementos de mobiliário,3E-56-04-00-00-00-00
-8093,PD,PD,ARQ_Evaporadora,Componentes de gabinete,3E-50-06-02-00-00-00,Evaporador para troca de calor de sistemas de refrigeração,3E-50-06-02-00-00-00
-8097,30x20cm,30x20cm,ARQ_Sanca_L,Componentes de gabinete,3E-16-02-04-00-00-00,Elementos de impermeabilização,3E-16-02-04-00-00-00
-8100,Escada,ARQ-Escada-Granito-Base,Escada moldada no local,Escadas,3E-08-06-04-00-00-00,Escada,3E-08-06-04-00-00-00
-8101,230x450cm,230x450cm,ARQ_Vaga,Estacionamento,3E-08-08-10-00-00-00,Elementos de sinalização,3E-08-08-10-00-00-00
-8107,ARQ_GradilLazer_AcoPretoVertical,ARQ_GradilLazer_AcoPretoVertical,Guarda-corpo,Guarda-corpos,3E-08-04-10-00-00-00,Guarda-corpo,3E-08-04-10-00-00-00
-8110,ARQ_Corrimão_Parede_Duplo_Unido-Final_Preto,ARQ_Corrimão_Parede_Duplo_Unido-Final_Preto,Guarda-corpo,Guarda-corpos,3E-08-04-10-00-00-00,Guarda-corpo,3E-08-04-10-00-00-00
-8111,ARQ_GradilVidroLaminado_AlumínioPreto_130cm,ARQ_GradilVidroLaminado_AlumínioPreto_130cm,Guarda-corpo,Guarda-corpos,3E-08-04-10-00-00-00,Guarda-corpo,3E-08-04-10-00-00-00
-8112,ARQ_GradilVidroLaminado_AlumínioPreto_110cm,ARQ_GradilVidroLaminado_AlumínioPreto_110cm,Guarda-corpo,Guarda-corpos,3E-08-04-10-00-00-00,Guarda-corpo,3E-08-04-10-00-00-00
-8114,"J06-158,5x181,5","J06-158,5x181,5",ARQ_Janela_Aluminio_1F_Veneziana_Trox,Janelas,3E-20-04-02-00-00-00,Janelas,3E-20-04-02-00-00-00
-8116,J10A-117x54,J10A-117x54,ARQ_Janela_Aluminio_2F_Correr,Janelas,3E-20-04-02-00-00-00,Janelas,3E-20-04-02-00-00-00
-8119,FI-01-120x240,FI-01-120x240,ARQ_Filtro_Metalico_8F,Janelas,3E-20-04-02-00-00-00,Janelas,3E-20-04-02-00-00-00
-8124,Anel LED_Ø60cm,Anel LED_Ø60cm,ARQ_Luminaria_Pendente,Luminárias,,,3E-58-00-00-00-00-00
-8163,18W_City,18W_City,ARQ_Luminaria_ArandelaSimples,Luminárias,,,3E-58-00-00-00-00-00
-8178,01 Refletor. h=3m,01 Refletor. h=3m,ARQ_Luminaria_PosteRefletor,Luminárias,,,3E-58-00-00-00-00-00
-8180,02 Refletores. h=3m,02 Refletores. h=3m,ARQ_Luminaria_PosteRefletor,Luminárias,,,3E-58-00-00-00-00-00
-8182,200W_Osram,200W_Osram,ARQ_Luminaria_Refletor_Poste,Luminárias,,,3E-58-00-00-00-00-00
-8214,"17,6W_FIT 15 AR15008","17,6W_FIT 15 AR15008",ARQ_Luminaria_ArandelaVertical,Luminárias,,,3E-58-00-00-00-00-00
-8227,"11,5W_Stella","11,5W_Stella",ARQ_Luminaria_FitaLED_Sobrepor,Luminárias,,,3E-58-00-00-00-00-00
-8236,"11,5W_Stella","11,5W_Stella",ARQ_Luminaria_PerfilLED_Embutir,Luminárias,,,3E-58-00-00-00-00-00
-8243,24W_30x30_Elgin,24W_30x30_Elgin,ARQ_Luminaria_Plafon_Embutir,Luminárias,,,3E-58-00-00-00-00-00
-8263,"4,4W_FIT15 GRAZING AR15009","4,4W_FIT15 GRAZING AR15009",ARQ_Luminaria_ArandelaHorizontal,Luminárias,,,3E-58-00-00-00-00-00
-8265,"11,5W_Stella","11,5W_Stella",ARQ_Luminaria_FitaLED_Sobrepor_Vertical,Luminárias,,,3E-58-00-00-00-00-00
-8277,7W_Romalux,7W_Romalux,ARQ_Luminaria_Spot_Embutir,Luminárias,,,3E-58-00-00-00-00-00
-8286,32W_40x40_Romalux,32W_40x40_Romalux,ARQ_Luminaria_Plafon_Sobrepor,Luminárias,,,3E-58-00-00-00-00-00
-8293,20 lumens_Espeto_Ecoforce,20 lumens_Espeto_Ecoforce,ARQ_Luminaria_Spot_Solar,Luminárias,,,3E-58-00-00-00-00-00
-8586,158x60cm,158x60cm,ARQ_Cobertura_Toldo,Modelos genéricos,3E-14-04-02-00-00-00,Cobertura,3E-14-04-02-00-00-00
-8587,Perfil_RipaPVC_100x200m,Perfil_RipaPVC_100x200m,Rectangular Mullion,Montantes de parede cortina,3E-14-04-02-00-00-00,Cobertura,3E-14-04-02-00-00-00
-8771,Perfil_AcoPreto_200x300m,Perfil_AcoPreto_200x300m,Rectangular Mullion,Montantes de parede cortina,3E-14-04-02-00-00-00,Cobertura,3E-14-04-02-00-00-00
-8823,"RE15-025-Ceramico33,5x60cm_Churrasqueria","RE15-025-Ceramico33,5x60cm_Churrasqueria",Parede básica,Paredes,3E-14-02-02-00-00-00,Núcleo de parede,3E-14-02-02-00-00-00
-8831,"RE15-010-Ceramico33,5x60cm_Churrasqueria","RE15-010-Ceramico33,5x60cm_Churrasqueria",Parede básica,Paredes,3E-14-02-02-00-00-00,Núcleo de parede,3E-14-02-02-00-00-00
-8846,DW-100-PlacaRU/DW70/PlacaRU,DW-100-PlacaRU/DW70/PlacaRU,Parede básica,Paredes,3E-14-02-04-00-00-00,Elementos de vedações,3E-14-02-04-00-00-00
-8848,RE14-025-Generico_Detalhamento,RE14-025-Generico_Detalhamento,Parede básica,Paredes,3E-14-02-02-00-00-00,Núcleo de parede,3E-14-02-02-00-00-00
-8849,DW-100-FechamentoChurrasqueira,DW-100-FechamentoChurrasqueira,Parede básica,Paredes,3E-14-02-02-00-00-00,Núcleo de parede,3E-14-02-02-00-00-00
-8852,RE21-001-PinturaCinzaGranito_Mineral_Bloco,RE21-001-PinturaCinzaGranito_Mineral_Bloco,Parede básica,Paredes,3E-14-02-02-00-00-00,Núcleo de parede,3E-14-02-02-00-00-00
-8856,SH02-030-PlacaST_Shaft,SH02-030-PlacaST_Shaft,Parede básica,Paredes,3E-14-02-04-00-00-00,Elementos de vedações,3E-14-02-04-00-00-00
-8858,RE14-010-Generico_Detalhamento,RE14-010-Generico_Detalhamento,Parede básica,Paredes,3E-14-02-02-00-00-00,Núcleo de parede,3E-14-02-02-00-00-00
-8894,20000 Litros,20000 Litros,ARQ_Tanque Fortlev - 2000 a 20.000 Litros,Peças hidrossanitárias,3E-38-02-08-00-00-00,Reservatório de água,3E-38-02-08-00-00-00
-8899,L01-Bacia Sanitaria Monobloco,L01-Bacia Sanitaria Monobloco,ARQ_Bacia_Sanitaria_Caixa_Acoplada,Peças hidrossanitárias,3E-42-04-02-00-00-00,Elementos de instalações sanitárias,3E-42-04-02-00-00-00
-8915,L06-Cuba Semiencaixe,L06-Cuba Semiencaixe,ARQ_Cuba_SemiEncaixe,Peças hidrossanitárias,3E-42-04-02-00-00-00,Elementos de instalações sanitárias,3E-42-04-02-00-00-00
-8920,M16-Bica Baixa 20.009,M16-Bica Baixa 20.009,ARQ_Torneira_Banheiro_PCD_Automática,Peças hidrossanitárias,3E-36-14-02-00-00-00,Elementos para distribuição direta de água potável,3E-36-14-02-00-00-00
-8922,M11-0987,M11-0987,ARQ_TorneiraGourmet_Mesa,Peças hidrossanitárias,3E-36-14-02-00-00-00,Elementos para distribuição direta de água potável,3E-36-14-02-00-00-00
-8924,M20-1012,M20-1012,ARQ_Torneira_Banheiro_Automática,Peças hidrossanitárias,3E-36-14-02-00-00-00,Elementos para distribuição direta de água potável,3E-36-14-02-00-00-00
-8927,10x10cm,10x10cm,ARQ_RaloSifonado,Peças hidrossanitárias,3E-06-04-16-00-00-00,Elementos para distribuição direta de água potável,3E-06-04-16-00-00-00
-8938,15x15cm,15x15cm,ARQ_RaloSifonado,Peças hidrossanitárias,3E-06-04-16-00-00-00,Elementos para distribuição direta de água potável,3E-06-04-16-00-00-00
-8945,M12-0860,M12-0860,ARQ_Torneira_Cozinha_PCD,Peças hidrossanitárias,3E-06-04-16-00-00-00,Elementos para distribuição direta de água potável,3E-06-04-16-00-00-00
-8946,M04-Parede 1130,M04-Parede 1130,ARQ_Torneira_Parede,Peças hidrossanitárias,3E-06-04-16-00-00-00,Elementos para distribuição direta de água potável,3E-36-14-02-00-00-00
-8949,M21-46x30x17cm,M21-46x30x17cm,ARQ_Metais_CubaInoxEmbutir,Peças hidrossanitárias,3E-06-04-16-00-00-00,Elementos para distribuição direta de água potável,3E-06-04-16-00-00-00
-8951,M21-46x30x17cm,M21-46x30x17cm,ARQ_Metais_CubaInoxEmbutir,Peças hidrossanitárias,3E-36-14-02-00-00-00,Elementos para distribuição direta de água potável,3E-06-04-16-00-00-00
-8961,PD,PD,ARQ_RaloLinear,Peças hidrossanitárias,3E-36-14-02-00-00-00,Elementos para distribuição direta de água potável,3E-06-04-16-00-00-00
-8979,PI03-020-Porcelanato60x60cm_Cinza,PI03-020-Porcelanato60x60cm_Cinza,Piso,Pisos,3E-16-02-04-00-00-00,Revestimento de piso,3E-16-02-04-00-00-00
-8981,PI01-050-PisoCerâmico45x45cm_Cinza,PI01-050-PisoCerâmico45x45cm_Cinza,Piso,Pisos,3E-16-02-04-00-00-00,Revestimento de piso,3E-16-02-04-00-00-00
-8985,PI-150-Enchimento_Interno,PI-150-Enchimento_Interno,Piso,Pisos,3E-16-02-04-00-00-00,Elementos de impermeabilização,3E-16-02-04-00-00-00
-8986,PI-050-Enchimento_Interno,PI-050-Enchimento_Interno,Piso,Pisos,3E-16-02-04-00-00-00,Elementos de impermeabilização,3E-16-02-04-00-00-00
-8989,PI03-040-Porcelanato60x60cm_Cinza,PI03-040-Porcelanato60x60cm_Cinza,Piso,Pisos,3E-16-02-04-00-00-00,Revestimento de piso,3E-16-02-04-00-00-00
-8999,PI-110-Impermeabilização_Enchimento_Externo,PI-110-Impermeabilização_Enchimento_Externo,Piso,Pisos,3E-16-02-04-00-00-00,Elementos de impermeabilização,3E-16-02-04-00-00-00
-9002,PI13-013-Emborrachado_Playground,PI13-013-Emborrachado_Playground,Piso,Pisos,3E-16-02-04-00-00-00,Revestimento de piso,3E-16-02-04-00-00-00
-9003,PI-137-Impermeabilização_Enchimento_Externo,PI-137-Impermeabilização_Enchimento_Externo,Piso,Pisos,3E-16-02-04-00-00-00,Elementos de impermeabilização,3E-16-02-04-00-00-00
-9005,PI14-005-Vinilico19x123cm,PI14-005-Vinilico19x123cm,Piso,Pisos,3E-16-02-04-00-00-00,Revestimento de piso,3E-16-02-04-00-00-00
-9006,"PI15-040-Porcelanato19,7x120cm_Canela","PI15-040-Porcelanato19,7x120cm_Canela",Piso,Pisos,3E-16-02-04-00-00-00,Revestimento de piso,3E-16-02-04-00-00-00
-9008,PI03-030-Porcelanato60x60cm_Cinza,PI03-030-Porcelanato60x60cm_Cinza,Piso,Pisos,3E-16-02-04-00-00-00,Revestimento de piso,3E-16-02-04-00-00-00
-9013,PI-125-Enchimento_Interno,PI-125-Enchimento_Interno,Piso,Pisos,3E-16-02-04-00-00-00,Elementos de impermeabilização,3E-16-02-04-00-00-00
-9014,PI-100-Enchimento_Interno,PI-100-Enchimento_Interno,Piso,Pisos,3E-16-02-04-00-00-00,Elementos de impermeabilização,3E-16-02-04-00-00-00
-9019,PI-025-Enchimento_Interno,PI-025-Enchimento_Interno,Piso,Pisos,3E-16-02-04-00-00-00,Elementos de impermeabilização,3E-16-02-04-00-00-00
-9020,PI-120-Enchimento_Interno,PI-120-Enchimento_Interno,Piso,Pisos,3E-16-02-04-00-00-00,Elementos de impermeabilização,3E-16-02-04-00-00-00
-9025,PI16-060-PisoCerâmico10x10cm_Piscina,PI16-060-PisoCerâmico10x10cm_Piscina,Piso,Pisos,3E-16-02-04-00-00-00,Revestimento de piso,3E-16-02-04-00-00-00
-9027,PI-040-Impermeabilização_Enchimento_Externo,PI-040-Impermeabilização_Enchimento_Externo,Piso,Pisos,3E-16-02-04-00-00-00,Elementos de impermeabilização,3E-16-02-04-00-00-00
-9029,PI-600-Impermeabilização_Enchimento_Externo,PI-600-Impermeabilização_Enchimento_Externo,Piso,Pisos,3E-16-02-04-00-00-00,Elementos de impermeabilização,3E-16-02-04-00-00-00
-9030,ARQ_Rampa_Complemento,ARQ_Rampa_Complemento,ARQ_Rampa_Complemento,Pisos,3E-08-06-02-00-00-00,Rampa,3E-08-06-02-00-00-00
-9031,P21-82x210,P21-82x210,ARQ_Porta_Aluminio_1F_Abrir_Ventilação_PCD,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
-9033,P11-160x234,P11-160x234,ARQ_Porta_VidroTemperado_2F_Abrir,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
-9037,P14A-80x210,P14A-80x210,ARQ_Porta_Madeira_1F_Abrir,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
-9038,P15-70x210,P15-70x210,ARQ_Porta_Madeira_1F_Abrir,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
-9040,PCF03-120x210,PCF03-120x210,ARQ_Porta_PCF_2F_Abrir_PA,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
-9041,P24-82x210,P24-82x210,ARQ_Porta_Aluminio_1F_Abrir_Ventilação,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
-9042,P18-92x210,P18-92x210,ARQ_Porta_Aluminio_1F_Abrir_Ventilação,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
-9043,P17-100x130,P17-100x130,ARQ_Portao_Aco_1F_Abrir_GradilVertical,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
-9048,P20-90x130,P20-90x130,ARQ_Portao_Aluminio_1F_Abrir_VidroLaminado,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
-9049,P19-122x110,P19-122x110,ARQ_Porta_Aluminio_2F_Abrir_Ventilação,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
-9051,C01-TelhaFibrocimento,C01-TelhaFibrocimento,Telhado básico,Telhados,3E-14-04-02-00-00-00,Telhado,3E-14-04-02-00-00-00
-9052,M34,M34,ARQ_Exaustor_Banheiro,Terminais de ar,3E-30-04-08-00-00-00,Chaminé de exaustão,3E-30-04-08-00-00-00
-9058,3W_BigNeu,3W_BigNeu,ARQ_Luminaria_Balizador_Sobrepor,Luminárias,,,3E-58-00-00-00-00-00
-9122,15x15cm,15x15cm,ARQ_RaloSifonado,Peças hidrossanitárias,3E-36-14-02-00-00-00,Elementos para distribuição direta de água potável,3E-06-04-16-00-00-00
-9128,PI-020-Impermeabilização_Enchimento_Externo,PI-020-Impermeabilização_Enchimento_Externo,Piso,Pisos,3E-16-02-04-00-00-00,Elementos de impermeabilização,3E-16-02-04-00-00-00
-9130,J07-272x215,J07-272x215,ARQ_Janela_Aluminio_4F_Correr_Bandeira,Janelas,3E-20-04-02-00-00-00,Janelas,3E-20-04-02-00-00-00
-9131,J01B-62x74,J01B-62x74,ARQ_Janela_Aluminio_1F_Maximar_Bandeira,Janelas,3E-20-04-02-00-00-00,Janelas,3E-20-04-02-00-00-00
-9132,J08-452x94,J08-452x94,ARQ_Janela_Aluminio_12F_Maximar_Fixa,Janelas,3E-20-04-02-00-00-00,Janelas,3E-20-04-02-00-00-00
-9136,Granito Cinza-A,Granito Cinza-A,ARQ_Pingadeira,Modelos genéricos,3E-16-02-08-00-00-00,Pingadeira,3E-16-02-08-00-00-00
-9143,Granito Cinza-B,Granito Cinza-B,ARQ_Pingadeira,Modelos genéricos,3E-16-02-08-00-00-00,Pingadeira,3E-16-02-08-00-00-00
-9146,P02E-80x210,P02E-80x210,ARQ_Porta_Madeira_1F_Abrir_PCD,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
-9147,P12-112x232,P12-112x232,ARQ_Porta_Vidro_1F_Pivotante,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
-9151,ARQ_GradilVidroLaminado_AlumínioPreto_120cm,ARQ_GradilVidroLaminado_AlumínioPreto_120cm,Guarda-corpo,Guarda-corpos,3E-08-04-10-00-00-00,Guarda-corpo,3E-08-04-10-00-00-00
-9153,ARQ_Corrimão_Parede_Duplo_Unido-Completo_Preto,ARQ_Corrimão_Parede_Duplo_Unido-Completo_Preto,Guarda-corpo,Guarda-corpos,3E-08-04-10-00-00-00,Guarda-corpo,3E-08-04-10-00-00-00
-9155,ARQ_Mureta_6x8cm,ARQ_Mureta_6x8cm,Guarda-corpo,Guarda-corpos,3E-08-04-02-00-00-00,Meio-fio,3E-08-04-02-00-00-00
-9157,ARQ_GradilVidroLaminado_AlumínioPreto_200cm,ARQ_GradilVidroLaminado_AlumínioPreto_200cm,Guarda-corpo,Guarda-corpos,3E-08-04-10-00-00-00,Guarda-corpo,3E-08-04-10-00-00-00
-9169,"18W_22,5x22,5_Elgin","18W_22,5x22,5_Elgin",ARQ_Luminaria_Plafon_Sobrepor,Luminárias,,,3E-58-00-00-00-00-00
-9174,24W_30x30_Elgin,24W_30x30_Elgin,ARQ_Luminaria_Plafon_Sobrepor,Luminárias,,,3E-58-00-00-00-00-00
-9176,9W_15x15_Prime,9W_15x15_Prime,ARQ_Luminaria_Plafon_Embutir,Luminárias,,,3E-58-00-00-00-00-00
-9177,7w_Frankfurt,7w_Frankfurt,ARQ_Luminaria_Balizador_Chao,Luminárias,,,3E-58-00-00-00-00-00
-9213,7W_Espeto_TLEX9120,7W_Espeto_TLEX9120,ARQ_Luminaria_Spot_Espeto,Luminárias,,,3E-58-00-00-00-00-00
-9222,Modelo4,Modelo4,ARQ_BancoLojas,Mobiliário,3E-56-04-00-00-00-00,Elementos de mobiliário,3E-56-04-00-00-00-00
-9274,Preto,Preto,ARQ_Pergolado_Policarbonato,Modelos genéricos,3E-14-04-02-00-00-00,Cobertura,3E-14-04-02-00-00-00
-9275,Vitrine_AlumínioBranco_30x10mm,Vitrine_AlumínioBranco_30x10mm,Rectangular Mullion,Montantes de parede cortina,3E-14-02-04-00-00-00,Elementos de vedações,3E-14-02-04-00-00-00
-9534,Gradil_AcoPreto_35x15mm,Gradil_AcoPreto_35x15mm,Rectangular Mullion,Montantes de parede cortina,3E-08-04-10-00-00-00,Guarda-corpo,3E-08-04-10-00-00-00
-9684,FA10-020-Ecogranito700C,FA10-020-Ecogranito700C,Parede básica,Paredes,3E-14-02-04-00-00-00,Acabamento de parede,3E-14-02-04-00-00-00
-9713,10x10cm,10x10cm,ARQ_RaloSifonado,Peças hidrossanitárias,3E-36-14-02-00-00-00,Elementos para distribuição direta de água potável,3E-06-04-16-00-00-00
-9721,Ø50mm,Ø50mm,ARQ_BuzinotePluvial,Peças hidrossanitárias,3E-44-02-02-00-00-00,Tubulação da rede coletora de esgoto,3E-44-02-02-00-00-00
-9746,PI-810-Enchimento_Interno,PI-810-Enchimento_Interno,Piso,Pisos,3E-16-02-02-00-00-00,Pisos,3E-16-02-02-00-00-00
-9750,P08-120x216,P08-120x216,ARQ_CW_Porta_Vidro_1F_Abrir_Liso,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
-9751,P05-120x220,P05-120x220,ARQ_Portao_Aco_1F_Abrir_GradilHorizontal,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
-9752,P10-500x220,P10-500x220,ARQ_Portao_Aco_2F_Abrir_GradilHorizontal,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
-9763,Reservatório 310L em Polietileno,Reservatório 310L em Polietileno,ARQ_Reservatorio_Fibra,Peças hidrossanitárias,3E-38-02-08-00-00-00,Reservatório de água,3E-38-02-08-00-00-00
+Name,Type,Family,Category,NBR_COD,NBR_DESC,NBR_COD_PRED
+Alvenaria prismática,Alvenaria prismática,Alvenaria prismática,Modelos genéricos,3E-42-18-04-00-00-00,Caixa de passagem para a rede coletora de esgoto,3E-42-18-04-00-00-00
+Laje Concreto (Inspeção),Laje Concreto (Inspeção),Laje Concreto (Inspeção),Modelos genéricos,3E-42-18-04-00-00-00,Caixa de passagem para a rede coletora de esgoto,3E-42-18-04-00-00-00
+Kessel 93004R en,Kessel 93004R en,Grease_separator_easyclean_modula_ns_4_standard_2-part_93004-r_kessel,Peças hidrossanitárias,,,3E-36-14-02-00-00-00
+Kessel 93001 en,Kessel 93001 en,Fettabscheider_easyclean_modular_ns_1_standard_2-teilig_93001_kessel,Peças hidrossanitárias,,,3E-36-14-02-00-00-00
+PPA_CAIXA_INSPECAO,PPA_CAIXA_INSPECAO,PPA_CAIXA_INSPECAO,Peças hidrossanitárias,3E-42-18-04-00-00-00,Caixa de passagem para a rede coletora de esgoto,3E-42-18-04-00-00-00
+3E.04.20.00.00-Sistemas Hidrosanitários - 5 x 5 cm,3E.04.20.00.00-Sistemas Hidrosanitários - 5 x 5 cm,Concreto-Retangular-Coluna,Pilares estruturais,3E-42-18-06-00-00-00,Ligação predial para a rede coletora de esgoto,3E-36-14-02-00-00-00
+S10-210x210/85cm,S10-210x210/85cm,FUN_Sapata_ CubicaPiramidal,Fundações estruturais,3E-10-02-04-00-00-00,Sapata,3E-10-02-04-00-00-00
+Concreto Magro -10cm,Concreto Magro -10cm,Laje de fundação,Fundações estruturais,3E-10-02-04-00-00-00,Sapata,3E-10-02-04-00-00-00
+CON-200,CON-200,Parede básica,Paredes,3E-02-04-06-00-00-00,Cortina de contenção,3E-02-04-06-00-00-00
+30x50cm,30x50cm,EST_Pilar_ConcretoRetangular,Pilares estruturais,3E-12-10-02-02-00-00,Pilar,3E-12-10-02-02-00-00
+Ø90cm,Ø90cm,CON_Tubulão_ConcretoCircular,Pilares estruturais,3E-10-04-04-00-00-00,Tubulão,3E-10-04-04-00-00-00
+30x30x30cm,30x30x30cm,CON_Pilar_ContraForteTriangular,Pilares estruturais,3E-02-04-02-00-00-00,Muro de arrimo,3E-02-04-02-00-00-00
+30x30cm,30x30cm,CON_Pilar_ConcretoRetangular,Pilares estruturais,3E-02-04-02-00-00-00,Muro de arrimo,3E-02-04-02-00-00-00
+Ø200/Ø90_20/115cm,Ø200/Ø90_20/115cm,CON_Tubulão_BaseCircular,Pilares estruturais,3E-10-04-04-00-00-00,Tubulão,3E-10-04-04-00-00-00
+Ø50cm,Ø50cm,Fun_Estaca_ConcretoCircular,Pilares estruturais,,,3E-12-10-02-02-00-00
+25x50cm/Cinta,25x50cm/Cinta,EST_Viga_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
+80x30cm,80x30cm,FUN_SapataCorrida_ConcretoRetangular,Quadro estrutural,,,3E-02-04-02-00-00-00
+30x30cm,30x30cm,CON_Viga_ConcretoRetangular,Quadro estrutural,3E-02-04-02-00-00-00,Muro de arrimo,3E-02-04-02-00-00-00
+Escada,Escada 13cm,Escada moldada no local,Escadas,3E-08-06-04-00-00-00,Escada,3E-08-06-04-00-00-00
+PI-150-LajeConcreto,PI-150-LajeConcreto,Piso,Pisos,3E-12-06-08-00-00-00,Laje,3E-12-06-08-00-00-00
+PD,PD,EST_Escada_Complemento,Quadro estrutural,,,3E-08-06-04-00-00-00
+M08-40cm,M08-40cm,ARQ_Barra_PCD,Peças hidrossanitárias,,,3E-36-14-02-00-00-00
+GranitoBranco-120x55cm-D,GranitoBranco-120x55cm-D,ARQ_Bancada_Cozinha_Pia_Embutida,Componentes de gabinete,,,3E-56-04-00-00-00-00
+M02-Bica Alta C-36-Regulador,M02-Bica Alta C-36-Regulador,ARQ_Torneira_Cozinha,Peças hidrossanitárias,,,3E-36-14-02-00-00-00
+M21-46x30x17cm,M21-46x30x17cm,ARQ_Metais_CubaInoxEmbutir,Peças hidrossanitárias,,,3E-06-04-16-00-00-00
+40x38cm,40x38cm,ARQ_Sanca_L,Componentes de gabinete,,,3E-16-02-04-00-00-00
+PD,PD,ARQ_Evaporadora,Componentes de gabinete,,,3E-50-06-02-00-00-00
+Núcleo de parede,Núcleo de parede,ARQ_Condensadora,Componentes de gabinete,,,3E-50-06-04-00-00-00
+GranitoBranco-120x55cm-E,GranitoBranco-120x55cm-E,ARQ_Bancada_Cozinha_Pia_Embutida_PCD,Componentes de gabinete,,,3E-56-04-00-00-00-00
+M14-0860-Regulador,M14-0860-Regulador,ARQ_Torneira_Cozinha_PCD,Peças hidrossanitárias,,,3E-06-04-16-00-00-00
+7 pontos,7 pontos,ARQ_Sifao-adaptativa-ESQ,Equipamento especial,,,3E-16-02-04-00-00-00
+7 pontos,7 pontos,ARQ_Sifao-adaptativa-DIR,Equipamento especial,,,3E-16-02-04-00-00-00
+Escada,Stair-PI06-PisoEscada,Escada montada,Escadas,,,3E-08-06-04-00-00-00
+FO03-030-PinturaBranca/PlacaRU_Acrilica_Antimofo,FO03-030-PinturaBranca/PlacaRU_Acrilica_Antimofo,Forro composto,Forros,,,3E-14-02-04-00-00-00
+ARQ_Corrimão_Parede_Duplo_Unido-Nenhum,ARQ_Corrimão_Parede_Duplo_Unido-Nenhum,Guarda-corpo,Guarda-corpos,,,3E-08-04-10-00-00-00
+"J01A-59,5x76,5","J01A-59,5x76,5",ARQ_Janela_Aluminio_1F_Maximar_Bandeira,Janelas,,,3E-20-04-02-00-00-00
+"J05-134,5x107,5","J05-134,5x107,5",ARQ_Janela_Aluminio_2F_Correr,Janelas,,,3E-20-04-02-00-00-00
+"J03-95,5x151,5","J03-95,5x151,5",ARQ_Janela_Aluminio_2F_Correr_Bandeira,Janelas,,,3E-20-04-02-00-00-00
+"J26-113,5x149,5","J26-113,5x149,5",ARQ_Janela_Aluminio_2F_Maximar_Bandeira,Janelas,,,3E-20-04-02-00-00-00
+"J15-52,5x32,5","J15-52,5x32,5",ARQ_Janela_Aluminio_1F_Veneziana_Trox,Janelas,,,3E-20-04-02-00-00-00
+DCF-01B-20x20,DCF-01B-20x20,ARQ_Janela_Dumper_SemHost,Janelas,,,3E-20-04-02-00-00-00
+7W_11x11_Romalux,7W_11x11_Romalux,ARQ_Luminaria_Plafon_Embutir,Luminárias,,,3E-58-00-00-00-00-00
+21W_30x30_Romalux,21W_30x30_Romalux,ARQ_Luminaria_Plafon_Sobrepor,Luminárias,,,3E-58-00-00-00-00-00
+Núcleo de parede,Núcleo de parede,ARQ_BlocoAutonomo,Luminárias,,,3E-50-06-04-00-00-00
+PD,PD,ARQ_SensorPresença,Luminárias,,,3E-58-00-00-00-00-00
+Tartaruga_PVC_7W,Tartaruga_PVC_7W,ARQ_Luminaria_ArandelaSimples,Luminárias,,,3E-58-00-00-00-00-00
+PD,PD,ARQ_SensorPresença_Parede,Luminárias,,,3E-58-00-00-00-00-00
+10x10cm,10x10cm,ARQ_RaloSifonado,Peças hidrossanitárias,,,3E-06-04-16-00-00-00
+L01-Bacia Sanitaria Monobloco,L01-Bacia Sanitaria Monobloco,ARQ_Bacia_Sanitaria_Caixa_Acoplada,Peças hidrossanitárias,,,3E-42-04-02-00-00-00
+M06-80cm,M06-80cm,ARQ_BarradeApoioLateralArticulada,Peças hidrossanitárias,,,3E-36-14-02-00-00-00
+L03-Lavatorio Suspenso,L03-Lavatorio Suspenso,ARQ_Lavatorio,Peças hidrossanitárias,,,3E-42-04-02-00-00-00
+M01-Bica Alta C-36-Regulador,M01-Bica Alta C-36-Regulador,ARQ_Torneira_Banheiro,Peças hidrossanitárias,,,3E-36-14-02-00-00-00
+Chuveiro Eletrico,Chuveiro Eletrico,ARQ_Chuveiro,Peças hidrossanitárias,,,3E-36-14-02-00-00-00
+CA01-Carenagem-Semi-circular-55cm,CA01-Carenagem-Semi-circular-55cm,ARQ_Carenagem,Peças hidrossanitárias,,,3E-36-14-02-00-00-00
+L02-Tanque Sintetico,L02-Tanque Sintetico,ARQ_Tanque_Sintetico,Peças hidrossanitárias,,,3E-36-14-02-00-00-00
+M13-Bica Alta C-36-Regulador,M13-Bica Alta C-36-Regulador,ARQ_Torneira_AS,Peças hidrossanitárias,,,3E-36-14-02-00-00-00
+L05-Lavatorio de Canto,L05-Lavatorio de Canto,ARQ_Lavatorio_Canto,Peças hidrossanitárias,,,3E-42-04-02-00-00-00
+M15-PCD 0863-Regulador,M15-PCD 0863-Regulador,ARQ_Torneira_Banheiro_PCD,Peças hidrossanitárias,,,3E-36-14-02-00-00-00
+L03-Lavatorio Suspenso,L03-Lavatorio Suspenso,ARQ_Lavatorio_PCD,Peças hidrossanitárias,,,3E-42-04-02-00-00-00
+M09,M09,ARQ_BancoArticulado,Peças hidrossanitárias,,,3E-36-14-02-00-00-00
+M05-Acabamento Registro,M05-Acabamento Registro,ARQ_AcabamentoRegistro,Peças hidrossanitárias,,,3E-42-02-04-00-00-00
+P02A-80x210,P02A-80x210,ARQ_Porta_Madeira_1F_Abrir,Portas,,,3E-20-02-02-00-00-00
+"P06-159,5x235","P06-159,5x235",ARQ_Porta_Aluminio_2F_Correr,Portas,,,3E-20-02-02-00-00-00
+PCF01B-80x210,PCF01B-80x210,ARQ_Porta_PCF_1F_Abrir_PC,Portas,,,3E-20-02-02-00-00-00
+80x210,80x210,ARQ_Porta_Aço_2F_Elevador,Portas,,,3E-20-02-02-00-00-00
+P13-150x235,P13-150x235,ARQ_Porta_Aluminio_1F_Abrir_VidroFixo,Portas,,,3E-20-02-02-00-00-00
+"GI-01-32,5x12,5","GI-01-32,5x12,5",ARQ_Janela_Grelha_1F,Janelas,,,3E-20-04-02-00-00-00
+8W_TL9020,8W_TL9020,ARQ_Luminaria_Balizador_Embutido_PisoSolo,Luminárias,,,3E-58-00-00-00-00-00
+Modelo5,Modelo5,ARQ_BancoLojas,Mobiliário,3E-56-04-00-00-00-00,Elementos de mobiliário,3E-56-04-00-00-00-00
+Ardósia,Ardósia,ARQ_Pingadeira,Modelos genéricos,3E-16-02-08-00-00-00,Pingadeira,3E-16-02-08-00-00-00
+Granito Preto,Granito Preto,ARQ_Soleira,Modelos genéricos,3E-16-02-06-00-00-00,Soleira,3E-16-02-06-00-00-00
+M19,M19,ARQ_Ducha_Externa,Peças hidrossanitárias,3E-36-14-02-00-00-00,Elementos para distribuição direta de água potável,3E-36-14-02-00-00-00
+Ø150mm,Ø150mm,ARQ_ColetorPluvial,Peças hidrossanitárias,3E-40-06-02-00-00-00,Elementos de instalações de água pluvial,3E-40-06-02-00-00-00
+M04-Parede 1130,M04-Parede 1130,ARQ_Torneira_Parede,Peças hidrossanitárias,3E-36-14-02-00-00-00,Elementos para distribuição direta de água potável,3E-36-14-02-00-00-00
+250x450cm (PCD),250x450cm (PCD),ARQ_Vaga,Estacionamento,3E-08-08-10-00-00-00,Elementos de sinalização,3E-08-08-10-00-00-00
+"6x1,2m","6x1,2m",ARQ_FaixaIsolada,Estacionamento,3E-08-08-10-00-00-00,Elementos de sinalização,3E-08-08-10-00-00-00
+17x50cm,17x50cm,ARQ_BateRodas_Concreto,Estacionamento,3E-08-04-22-00-00-00,Barreira de tráfego,3E-08-04-22-00-00-00
+12W_TLEX 9422,12W_TLEX 9422,ARQ_Luminaria_Embutido_Solo,Luminárias,,,3E-58-00-00-00-00-00
+48W_2 Petalas,48W_2 Petalas,ARQ_PostePetala,Luminárias,,,3E-58-00-00-00-00-00
+50W,50W,ARQ_Luminaria_Refletor,Luminárias,,,3E-58-00-00-00-00-00
+Vitrine_AlumínioBranco_100x40mm,Vitrine_AlumínioBranco_100x40mm,Rectangular Mullion,Montantes de parede cortina,3E-14-02-04-00-00-00,Elementos de vedações,3E-14-02-04-00-00-00
+P14B-80x210,P14B-80x210,ARQ_Porta_Madeira_1F_Abrir_PCD,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
+P07-160x240,P07-160x240,ARQ_CW_Porta_Alumínio_2F_Correr_Vidro,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
+M11,M11,ARQ_Exaustor_Banheiro,Terminais de ar,3E-30-04-08-00-00-00,Chaminé de exaustão,3E-30-04-08-00-00-00
+P03-80x212,P03-80x212,ARQ_Porta_Madeira_1F_Correr,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
+J02-82x134,J02-82x134,ARQ_Janela_Aluminio_4F_Maximar_Fixa,Janelas,3E-20-04-02-00-00-00,Janelas,3E-20-04-02-00-00-00
+P04-122x210,P04-122x210,ARQ_Porta_Aluminio_2F_Abrir_Ventilação,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
+Reservatório 500L em Polietileno,Reservatório 500L em Polietileno,ARQ_Reservatorio_Fibra,Peças hidrossanitárias,3E-38-02-08-00-00-00,Reservatório de água,3E-38-02-08-00-00-00
+10x10cm,10x10cm,ARQ_RaloSifonado_SemHost,Peças hidrossanitárias,3E-06-04-16-00-00-00,Caixa coletora de drenagem superficial,3E-06-04-16-00-00-00
+FA06-020-PinturaCinzaGranito_Acrilica_Reboco,FA06-020-PinturaCinzaGranito_Acrilica_Reboco,System Panel,Painéis cortina,,,3E-14-02-04-00-00-00
+2x18W_152205,2x18W_152205,ARQ_Luminaria_LinearT8_Sobrepor,Luminárias,,,3E-58-00-00-00-00-00
+SINALIZAÇÃO,SINALIZAÇÃO,ARQ_Smb_PCD_Escada,Modelos genéricos,3E-08-08-10-00-00-00,Elementos de sinalização,3E-08-08-10-00-00-00
+PD,PD,ARQ_RaloLinear,Peças hidrossanitárias,3E-06-04-16-00-00-00,Elementos para distribuição direta de água potável,3E-06-04-16-00-00-00
+PCF04-80x210,PCF04-80x210,ARQ_Porta_PCF_1F_Abrir_PA,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
+20x20,20x20,ARQ_Pergolado_Pilar,Pilares estruturais,3E-12-10-02-02-00-00,Pilar,3E-12-10-02-02-00-00
+GranitoBranco-670x35cm-E,GranitoBranco-670x35cm-E,ARQ_Bancada_Churrasqueira_Banheiro_SemiEncaixe,Componentes de gabinete,3E-56-04-00-00-00-00,Elementos de mobiliário,3E-56-04-00-00-00-00
+GranitoBranco-252x40cm,GranitoBranco-252x40cm,ARQ_Bancada_Churrasqueira_Ilha,Componentes de gabinete,3E-56-04-00-00-00-00,Elementos de mobiliário,3E-56-04-00-00-00-00
+GranitoBranco-312x55cm,GranitoBranco-312x55cm,ARQ_Bancada_Churrasqueira_AM_Pia_Embutida,Componentes de gabinete,3E-56-04-00-00-00-00,Elementos de mobiliário,3E-56-04-00-00-00-00
+GranitoBranco-820x35cm-D,GranitoBranco-820x35cm-D,ARQ_Bancada_Salao_Banheiro_SemiEncaixe,Componentes de gabinete,3E-56-04-00-00-00-00,Elementos de mobiliário,3E-56-04-00-00-00-00
+GranitoBranco-1358x540cm,GranitoBranco-1358x540cm,ARQ_Bancada_Salao_L_Pia_Embutida,Componentes de gabinete,3E-56-04-00-00-00-00,Elementos de mobiliário,3E-56-04-00-00-00-00
+GranitoBranco-112x54cm,GranitoBranco-112x54cm,ARQ_Bancada_Salao_Cozinha_L,Componentes de gabinete,3E-56-04-00-00-00-00,Elementos de mobiliário,3E-56-04-00-00-00-00
+FI-01-120x240,FI-01-120x240,ARQ_Filtro_Metalico_8F,Janelas,3E-20-04-02-00-00-00,Janelas,3E-20-04-02-00-00-00
+Anel LED_Ø60cm,Anel LED_Ø60cm,ARQ_Luminaria_Pendente,Luminárias,,,3E-58-00-00-00-00-00
+01 Refletor. h=3m,01 Refletor. h=3m,ARQ_Luminaria_PosteRefletor,Luminárias,,,3E-58-00-00-00-00-00
+200W_Osram,200W_Osram,ARQ_Luminaria_Refletor_Poste,Luminárias,,,3E-58-00-00-00-00-00
+"17,6W_FIT 15 AR15008","17,6W_FIT 15 AR15008",ARQ_Luminaria_ArandelaVertical,Luminárias,,,3E-58-00-00-00-00-00
+"11,5W_Stella","11,5W_Stella",ARQ_Luminaria_FitaLED_Sobrepor,Luminárias,,,3E-58-00-00-00-00-00
+"11,5W_Stella","11,5W_Stella",ARQ_Luminaria_PerfilLED_Embutir,Luminárias,,,3E-58-00-00-00-00-00
+"4,4W_FIT15 GRAZING AR15009","4,4W_FIT15 GRAZING AR15009",ARQ_Luminaria_ArandelaHorizontal,Luminárias,,,3E-58-00-00-00-00-00
+"11,5W_Stella","11,5W_Stella",ARQ_Luminaria_FitaLED_Sobrepor_Vertical,Luminárias,,,3E-58-00-00-00-00-00
+7W_Romalux,7W_Romalux,ARQ_Luminaria_Spot_Embutir,Luminárias,,,3E-58-00-00-00-00-00
+20 lumens_Espeto_Ecoforce,20 lumens_Espeto_Ecoforce,ARQ_Luminaria_Spot_Solar,Luminárias,,,3E-58-00-00-00-00-00
+158x60cm,158x60cm,ARQ_Cobertura_Toldo,Modelos genéricos,3E-14-04-02-00-00-00,Cobertura,3E-14-04-02-00-00-00
+20000 Litros,20000 Litros,ARQ_Tanque Fortlev - 2000 a 20.000 Litros,Peças hidrossanitárias,3E-38-02-08-00-00-00,Reservatório de água,3E-38-02-08-00-00-00
+L06-Cuba Semiencaixe,L06-Cuba Semiencaixe,ARQ_Cuba_SemiEncaixe,Peças hidrossanitárias,3E-42-04-02-00-00-00,Elementos de instalações sanitárias,3E-42-04-02-00-00-00
+M16-Bica Baixa 20.009,M16-Bica Baixa 20.009,ARQ_Torneira_Banheiro_PCD_Automática,Peças hidrossanitárias,3E-36-14-02-00-00-00,Elementos para distribuição direta de água potável,3E-36-14-02-00-00-00
+M11-0987,M11-0987,ARQ_TorneiraGourmet_Mesa,Peças hidrossanitárias,3E-36-14-02-00-00-00,Elementos para distribuição direta de água potável,3E-36-14-02-00-00-00
+M20-1012,M20-1012,ARQ_Torneira_Banheiro_Automática,Peças hidrossanitárias,3E-36-14-02-00-00-00,Elementos para distribuição direta de água potável,3E-36-14-02-00-00-00
+ARQ_Rampa_Complemento,ARQ_Rampa_Complemento,ARQ_Rampa_Complemento,Pisos,3E-08-06-02-00-00-00,Rampa,3E-08-06-02-00-00-00
+P21-82x210,P21-82x210,ARQ_Porta_Aluminio_1F_Abrir_Ventilação_PCD,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
+P11-160x234,P11-160x234,ARQ_Porta_VidroTemperado_2F_Abrir,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
+PCF03-120x210,PCF03-120x210,ARQ_Porta_PCF_2F_Abrir_PA,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
+P24-82x210,P24-82x210,ARQ_Porta_Aluminio_1F_Abrir_Ventilação,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
+P17-100x130,P17-100x130,ARQ_Portao_Aco_1F_Abrir_GradilVertical,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
+P20-90x130,P20-90x130,ARQ_Portao_Aluminio_1F_Abrir_VidroLaminado,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
+C01-TelhaFibrocimento,C01-TelhaFibrocimento,Telhado básico,Telhados,3E-14-04-02-00-00-00,Telhado,3E-14-04-02-00-00-00
+3W_BigNeu,3W_BigNeu,ARQ_Luminaria_Balizador_Sobrepor,Luminárias,,,3E-58-00-00-00-00-00
+J07-272x215,J07-272x215,ARQ_Janela_Aluminio_4F_Correr_Bandeira,Janelas,3E-20-04-02-00-00-00,Janelas,3E-20-04-02-00-00-00
+J08-452x94,J08-452x94,ARQ_Janela_Aluminio_12F_Maximar_Fixa,Janelas,3E-20-04-02-00-00-00,Janelas,3E-20-04-02-00-00-00
+P12-112x232,P12-112x232,ARQ_Porta_Vidro_1F_Pivotante,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
+7w_Frankfurt,7w_Frankfurt,ARQ_Luminaria_Balizador_Chao,Luminárias,,,3E-58-00-00-00-00-00
+7W_Espeto_TLEX9120,7W_Espeto_TLEX9120,ARQ_Luminaria_Spot_Espeto,Luminárias,,,3E-58-00-00-00-00-00
+Preto,Preto,ARQ_Pergolado_Policarbonato,Modelos genéricos,3E-14-04-02-00-00-00,Cobertura,3E-14-04-02-00-00-00
+Ø50mm,Ø50mm,ARQ_BuzinotePluvial,Peças hidrossanitárias,3E-44-02-02-00-00-00,Tubulação da rede coletora de esgoto,3E-44-02-02-00-00-00
+P08-120x216,P08-120x216,ARQ_CW_Porta_Vidro_1F_Abrir_Liso,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
+P05-120x220,P05-120x220,ARQ_Portao_Aco_1F_Abrir_GradilHorizontal,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
+P10-500x220,P10-500x220,ARQ_Portao_Aco_2F_Abrir_GradilHorizontal,Portas,3E-20-02-02-00-00-00,Portas,3E-20-02-02-00-00-00
